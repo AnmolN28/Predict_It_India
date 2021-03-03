@@ -1,0 +1,384 @@
+Crime Scenes/Crime Scene Templates	[Bookmark]	
+Crime Scene	\2010\Basics\Crime Scene_12.sdt		crimescene
+Traffic Diagram	\2010\Basics\Roads & Freeways_46.sdt	accident reconstruction	accidentreconstruction
+Vehicle Diagram	\2010\Basics\Vehicle Diagram_59.sdt		vehiclediagram	
+Crime Scene Examples	[Header]	
+Alley	\2010\Examples\Crime Scenes\Alley_64.sdt	
+Apartment - 1	\2010\Examples\Crime Scenes\Apartment - 1_65.sdt	
+Apartment - 2	\2010\Examples\Crime Scenes\Apartment - 2_66.sdt	
+Bathroom	\2010\Examples\Crime Scenes\Bathroom_67.sdt	
+Bedroom	\2010\Examples\Crime Scenes\Bedroom_68.sdt	
+Conference Room	\2010\Examples\Crime Scenes\Conference Room_69.sdt	
+Drug Possession	\2010\Examples\Crime Scenes\Drug Possession_70.sdt	
+Kitchen	\2010\Examples\Crime Scenes\Kitchen_71.sdt	
+Murder Scene	\2010\Examples\Crime Scenes\Murder Scene_72.sdt	
+Office	\2010\Examples\Crime Scenes\Office_73.sdt	
+Pool	\2010\Examples\Crime Scenes\Pool_74.sdt	
+Public Restroom	\2010\Examples\Crime Scenes\Public Restroom_75.sdt	
+Quicky-Mart	\2010\Examples\Crime Scenes\Quicky-Mart_76.sdt	
+Restaurant	\2010\Examples\Crime Scenes\Restaurant_77.sdt	
+Workplace	\2010\Examples\Crime Scenes\Workplace_78.sdt	
+
+Traffic & Accident Diagrams/Traffic & Accident Diagram Templates	[Bookmark]	
+1-Lane	\2010\Templates\Roads & Freeways\Basics\1-Lane_3662.sdt	
+2-Lane	\2010\Templates\Roads & Freeways\Basics\2-Lane_3663.sdt	
+3-Lane	\2010\Templates\Roads & Freeways\Basics\3-Lane_3664.sdt	
+4 Way Intersection - 1	\2010\Templates\Roads & Freeways\Basics\4 Way Intersection - 1_3665.sdt	
+4 Way Intersection - 2	\2010\Templates\Roads & Freeways\Basics\4 Way Intersection - 2_3666.sdt	
+4-Lane	\2010\Templates\Roads & Freeways\Basics\4-Lane_3667.sdt	
+4-Way Stoplight	\2010\Templates\Roads & Freeways\Basics\4-Way Stoplight_3668.sdt	
+5-Lane	\2010\Templates\Roads & Freeways\Basics\5-Lane_3669.sdt	
+Accident Claim Worksheet	\2010\Templates\Roads & Freeways\Basics\Accident Claim Worksheet_3670.sdt	
+Curbed Road	\2010\Templates\Roads & Freeways\Basics\Curbed Road_3671.sdt	
+Freeway - 1	\2010\Templates\Roads & Freeways\Basics\Freeway - 1_3672.sdt	
+Freeway - 2	\2010\Templates\Roads & Freeways\Basics\Freeway - 2_3673.sdt	
+Grocery Parking Lot	\2010\Templates\Roads & Freeways\Basics\Grocery Parking Lot_3674.sdt	
+Highway - 1	\2010\Templates\Roads & Freeways\Basics\Highway - 1_3675.sdt	
+Highway - 2	\2010\Templates\Roads & Freeways\Basics\Highway - 2_3676.sdt	
+Intersection - 2	\2010\Templates\Roads & Freeways\Basics\Intersection - 2_3677.sdt	
+Parking Garage	\2010\Templates\Roads & Freeways\Basics\Parking Garage_3678.sdt	
+Regulatory Sign Sizes	\2010\Templates\Roads & Freeways\Basics\Regulatory Sign Sizes_3679.sdt	
+T Intersection - 1	\2010\Templates\Roads & Freeways\Basics\T Intersection - 1_3680.sdt	
+T Intersection - 2	\2010\Templates\Roads & Freeways\Basics\T Intersection - 2_3681.sdt	
+T Intersection - 3	\2010\Templates\Roads & Freeways\Basics\T Intersection - 3_3682.sdt	
+T Intersection - 4	\2010\Templates\Roads & Freeways\Basics\T Intersection - 4_3683.sdt	
+Train & Road Intersection	\2010\Templates\Roads & Freeways\Basics\Train & Road Intersection_3684.sdt	
+Warning Sign Sizes	\2010\Templates\Roads & Freeways\Basics\Warning Sign Sizes_3685.sdt	
+Traffic & Accident Reconstruction Examples	[HEADER]	
+4-Way Intersection Accident	\2010\Examples\Accident Reconstruction\4-Way Intersection Accident_1.sdt	
+Accident at Curbed Point	\2010\Examples\Accident Reconstruction\Accident at Curbed Point_2.sdt	
+Accident In Front of a Grocery Store	\2010\Examples\Accident Reconstruction\Accident In Front of a Grocery Store_3.sdt	
+Construction Accident	\2010\Examples\Accident Reconstruction\Construction Accident_4.sdt	
+Freeway Accident	\2010\Examples\Accident Reconstruction\Freeway Accident_6.sdt	
+Highway Accident	\2010\Examples\Accident Reconstruction\Highway Accident_7.sdt	
+Office Building	\2010\Examples\Fire Scene Reconstruction\Office Building_140.sdt	
+Office	\2010\Examples\Fire Scene Reconstruction\Office_141.sdt	
+Patrol Chase Accident	\2010\Examples\Accident Reconstruction\Patrol Chase Accident_8.sdt	
+Residential	\2010\Examples\Fire Scene Reconstruction\Residential_145.sdt	
+Restaurant	\2010\Examples\Fire Scene Reconstruction\Restaurant_146.sdt	
+Crossing Road Accident	\2010\Examples\Accident Reconstruction\Crossing Road Accident_5.sdt	
+Street Accident	\2010\Examples\Accident Reconstruction\Street Accident_9.sdt	
+Train Car Accident	\2010\Examples\Accident Reconstruction\Train Car Accident_10.sdt	
+Vehicles - Drug Possession	\2010\Examples\Accident Reconstruction\Vehicles - Drug Possession_11.sdt	
+Vehicles - Murder Scene	\2010\Examples\Accident Reconstruction\Vehicles - Murder Scene_12.sdt	
+
+Vehicle Diagrams/Vehicle Diagram Templates	[Bookmark]	
+2-Door Compact Car - 1 (Elevation View)	\2010\Examples\Vehicle Diagrams\2-Door Compact Car - 1 (Elevation View)_365.sdt	
+2-Door Compact Car - 1 (Side View)	\2010\Examples\Vehicle Diagrams\2-Door Compact Car - 1 (Side View)_366.sdt	
+2-Door Compact Car - 2 (Elevation View)	\2010\Examples\Vehicle Diagrams\2-Door Compact Car - 2 (Elevation View)_367.sdt	
+2-Door Compact Car - 2 (Side View)	\2010\Examples\Vehicle Diagrams\2-Door Compact Car - 2 (Side View)_368.sdt	
+4-Door Compact Car - 1 (Elevation View)	\2010\Examples\Vehicle Diagrams\4-Door Compact Car - 1 (Elevation View)_369.sdt	
+4-Door Compact Car - 1 (Side View)	\2010\Examples\Vehicle Diagrams\4-Door Compact Car - 1 (Side View)_370.sdt	
+4-Door Compact Car - 2 (Elevation View)	\2010\Examples\Vehicle Diagrams\4-Door Compact Car - 2 (Elevation View)_371.sdt	
+4-Door Compact Car - 2 (Side View)	\2010\Examples\Vehicle Diagrams\4-Door Compact Car - 2 (Side View)_372.sdt	
+Beetle - 1 (Elevation View)	\2010\Examples\Vehicle Diagrams\Beetle - 1 (Elevation View)_373.sdt	
+Beetle - 1 (Side View)	\2010\Examples\Vehicle Diagrams\Beetle - 1 (Side View)_374.sdt	
+Beetle - 2 (Elevation View)	\2010\Examples\Vehicle Diagrams\Beetle - 2 (Elevation View)_375.sdt	
+Beetle - 2 (Side View)	\2010\Examples\Vehicle Diagrams\Beetle - 2 (Side View)_376.sdt	
+Family Car - 1 (Elevation View)	\2010\Examples\Vehicle Diagrams\Family Car - 1 (Elevation View)_377.sdt	
+Family Car - 1 (Side View)	\2010\Examples\Vehicle Diagrams\Family Car - 1 (Side View)_378.sdt	
+Family Car - 2 (Elevation View)	\2010\Examples\Vehicle Diagrams\Family Car - 2 (Elevation View)_379.sdt	
+Family Car - 2 (Side View)	\2010\Examples\Vehicle Diagrams\Family Car - 2 (Side View)_380.sdt	
+Minivan - 1 (Elevation View)	\2010\Examples\Vehicle Diagrams\Minivan - 1 (Elevation View)_381.sdt	
+Minivan - 1 (Side View)	\2010\Examples\Vehicle Diagrams\Minivan - 1 (Side View)_382.sdt	
+Minivan - 2 (Elevation View)	\2010\Examples\Vehicle Diagrams\Minivan - 2 (Elevation View)_383.sdt	
+Minivan - 2 (Side View)	\2010\Examples\Vehicle Diagrams\Minivan - 2 (Side View)_384.sdt	
+Pickup Truck - 1 (Elevation View)	\2010\Examples\Vehicle Diagrams\Pickup Truck - 1 (Elevation View)_385.sdt	
+Pickup Truck - 1 (Side View)	\2010\Examples\Vehicle Diagrams\Pickup Truck - 1 (Side View)_386.sdt	
+Pickup Truck - 2 (Elevation View)	\2010\Examples\Vehicle Diagrams\Pickup Truck - 2 (Elevation View)_387.sdt	
+Pickup Truck - 2 (Side View)	\2010\Examples\Vehicle Diagrams\Pickup Truck - 2 (Side View)_388.sdt	
+RV - 1 (Elevation View)	\2010\Examples\Vehicle Diagrams\RV - 1 (Elevation View)_389.sdt	
+RV - 1 (Side View)	\2010\Examples\Vehicle Diagrams\RV - 1 (Side View)_390.sdt	
+RV - 2 (Elevation View)	\2010\Examples\Vehicle Diagrams\RV - 2 (Elevation View)_391.sdt	
+RV - 2 (Side View)	\2010\Examples\Vehicle Diagrams\RV - 2 (Side View)_392.sdt	
+SUV - 1 (Elevation View)	\2010\Examples\Vehicle Diagrams\SUV - 1 (Elevation View)_393.sdt	
+SUV - 1 (Side View)	\2010\Examples\Vehicle Diagrams\SUV - 1 (Side View)_394.sdt	
+SUV - 2 (Elevation View)	\2010\Examples\Vehicle Diagrams\SUV - 2 (Elevation View)_395.sdt	
+SUV - 2 (Side View)	\2010\Examples\Vehicle Diagrams\SUV - 2 (Side View)_396.sdt	
+Truck - 1 (Elevation View)	\2010\Examples\Vehicle Diagrams\Truck - 1 (Elevation View)_397.sdt	
+Truck - 1 (Side View)	\2010\Examples\Vehicle Diagrams\Truck - 1 (Side View)_398.sdt	
+Truck - 2 (Elevation View)	\2010\Examples\Vehicle Diagrams\Truck - 2 (Elevation View)_399.sdt	
+Truck - 2 (Side View)	\2010\Examples\Vehicle Diagrams\Truck - 2 (Side View)_400.sdt	
+
+Crime Scene Reports	[BOOKMARK]	
+Autopsy Report	\2010\Templates\Crime Scene Investigation\Forms\Autopsy Report_263.sdt	
+Crime Scene Report	\2010\Templates\Crime Scene Investigation\Forms\Crime Scene Report_264.sdt	
+Fingerprint Classifications	\2010\Templates\Crime Scene Investigation\Reference Sheets\Fingerprint Classifications_288.sdt	
+Forensic Report	\2010\Templates\Crime Scene Investigation\Forms\Forensic Report_265.sdt	
+Gunshot Forensic Pathology Report	\2010\Templates\Crime Scene Investigation\Forms\Gunshot Forensic Pathology Report_266.sdt	
+Models of Motive	\2010\Templates\Crime Scene Investigation\Reference Sheets\Models of Motive_289.sdt	
+Order of Investigation	\2010\Templates\Crime Scene Investigation\Reference Sheets\Order of Investigation_290.sdt	
+Search Patterns	\2010\Templates\Crime Scene Investigation\Reference Sheets\Search Patterns_10.sdt	
+Weapon Forensic Pathology Report	\2010\Templates\Crime Scene Investigation\Forms\Weapon Forensic Pathology Report_267.sdt	
+
+Criminal Justice	[Bookmark]	
+Action Plan	\2010\Templates\Criminal Justice\Forming a Coalition\Action Plan_1.sdt	
+Age-Specific Interventions for Children and Adolescents	\2010\Templates\Criminal Justice\Violence or Trauma\Age-Specific Interventions for Children and Adolescents_34.sdt	
+Approaches for Stress Prevention and Management - Individual	\2010\Templates\Criminal Justice\Violence or Trauma\Approaches for Stress Prevention and Management - Individual_35.sdt	
+Approaches for Stress Prevention and Management - Organization	\2010\Templates\Criminal Justice\Violence or Trauma\Approaches for Stress Prevention and Management - Organization_36.sdt	
+Breakdown - Key Social Indicators	\2010\Templates\Criminal Justice\Gangs\Breakdown - Key Social Indicators_12.sdt	
+Communication Strategy	\2010\Templates\Criminal Justice\Forming a Coalition\Communication Strategy_2.sdt	
+Custody Assessment - Initial	\2010\Templates\Criminal Justice\Juvenile Justice\Custody Assessment - Initial_26.sdt	
+Custody Assessment - Reassessment	\2010\Templates\Criminal Justice\Juvenile Justice\Custody Assessment - Reassessment_27.sdt	
+Detention Assessment Instrument for Juvenile Justice	\2010\Templates\Criminal Justice\Juvenile Justice\Detention Assessment Instrument for Juvenile Justice_28.sdt	
+Environment Analysis Worksheet	\2010\Templates\Criminal Justice\Forming a Coalition\Environment Analysis Worksheet_3.sdt	
+Gang Problem Triangle	\2010\Templates\Criminal Justice\Gangs\Gang Problem Triangle_13.sdt	
+Graffiti Removal	\2010\Templates\Criminal Justice\Gangs\Graffiti Removal_14.sdt	
+Housing Assignment Matrix	\2010\Templates\Criminal Justice\Juvenile Justice\Housing Assignment Matrix_29.sdt	
+Interconnectedness of Different Types of Abuse	\2010\Templates\Criminal Justice\Violence or Trauma\Interconnectedness of Different Types of Abuse_37.sdt	
+Levels and Effects	\2010\Templates\Criminal Justice\Gangs\Levels and Effects_15.sdt	
+Logic Diagram	\2010\Templates\Criminal Justice\Gangs\Logic Diagram_16.sdt	
+Mass Violent Victimization and Natural Disasters	\2010\Templates\Criminal Justice\Violence or Trauma\Mass Violent Victimization and Natural Disasters_38.sdt	
+Mental Health Response to Mass Violence and Terrorism	\2010\Templates\Criminal Justice\Violence or Trauma\Mental Health Response to Mass Violence and Terrorism_39.sdt	
+Mission Statement	\2010\Templates\Criminal Justice\Forming a Coalition\Mission Statement_4.sdt	
+Model of Psychological Response to Trauma and Traumatic Bereavement	\2010\Templates\Criminal Justice\Violence or Trauma\Model of Psychological Response to Trauma and Traumatic Bereavement_40.sdt	
+Motivations That May Underlie Animal Abuse	\2010\Templates\Criminal Justice\Violence or Trauma\Motivations That May Underlie Animal Abuse_41.sdt	
+Organizational Assessment - Critical Issues	\2010\Templates\Criminal Justice\Forming a Coalition\Organizational Assesment - Critical Issues_5.sdt	
+Organizational Assessment - SWOT	\2010\Templates\Criminal Justice\Forming a Coalition\Organizational Assesment - SWOT_6.sdt	
+Persons Responsible	\2010\Templates\Criminal Justice\Gangs\Persons Responsible_17.sdt	
+Placement Matrix for Juvenile Offenders	\2010\Templates\Criminal Justice\Juvenile Justice\Placement Matrix for Juvenile Offenders_30.sdt	
+Problem Places Checklist	\2010\Templates\Criminal Justice\Gangs\Problem Places Checklist_18.sdt	
+Problem Solving	\2010\Templates\Criminal Justice\Gangs\Problem Solving_20.sdt	
+Problem Solving SARA Model	\2010\Templates\Criminal Justice\Gangs\Problem Solving SARA Model_19.sdt	
+Reactions to Trauma and Suggestions for Intervention	\2010\Templates\Criminal Justice\Violence or Trauma\Reactions to Trauma and Suggestions for Intervention_42.sdt	
+Risk Assessment Instrument	\2010\Templates\Criminal Justice\Juvenile Justice\Risk Assessment Instrument_32.sdt	
+Risk Assessment Instrument for Juvenile Probation	\2010\Templates\Criminal Justice\Juvenile Justice\Risk Assessment Instrument for Juvenile Probation_31.sdt	
+Secure Custody Screening Document	\2010\Templates\Criminal Justice\Juvenile Justice\Secure Custody Screening Document_33.sdt	
+Signs & Symptoms of Worker Stress	\2010\Templates\Criminal Justice\Violence or Trauma\Signs & Symptoms of Worker Stress_43.sdt	
+Social Indicators	\2010\Templates\Criminal Justice\Gangs\Social Indicators_21.sdt	
+Strategic Objective Issues	\2010\Templates\Criminal Justice\Forming a Coalition\Strategic Objective Issues_7.sdt	
+Strategic Objectives Failures	\2010\Templates\Criminal Justice\Forming a Coalition\Strategic Objectives Failures_8.sdt	
+Strategic Objectives Successes	\2010\Templates\Criminal Justice\Forming a Coalition\Strategic Objectives Successes_9.sdt	
+Survivor Characteristics	\2010\Templates\Criminal Justice\Violence or Trauma\Survivor Characteristics_44.sdt	
+Tagger vs Gang Graffiti	\2010\Templates\Criminal Justice\Gangs\Tagger vs Gang Graffiti_22.sdt	
+Team Building	\2010\Templates\Criminal Justice\Forming a Coalition\Team Building_10.sdt	
+Training Plan	\2010\Templates\Criminal Justice\Forming a Coalition\Training Plan_11.sdt	
+Types of Harm	\2010\Templates\Criminal Justice\Gangs\Types of Harm_23.sdt	
+Types of Relationships	\2010\Templates\Criminal Justice\Gangs\Types of Relationships_24.sdt	
+Wheel of Misfortune	\2010\Templates\Criminal Justice\Gangs\Wheel of Misfortune_25.sdt	
+		
+Estate Planning	[Bookmark]	
+Advantages and Disadvantages of Wills	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Advantages and Disadvantages of Wills_563.sdt	
+Basic Elements of an Effective Estate Plan	\2010\Templates\Financial & Estate Planning\Basic Estate Planning\Basic Elements of an Effective Estate Plan_487.sdt	
+Basic Estate Planning - AB Trust	\2010\Templates\Financial & Estate Planning\Basic Estate Planning\Basic Estate Planning - AB Trust_488.sdt	
+Basic Use of the Charitable Remainder Trust	\2010\Templates\Financial & Estate Planning\Trusts\Basic Use of the Charitable Remainder Trust_578.sdt	
+Cascading Beneficiary Designation Plan	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Cascading Beneficiary Designation Plan_564.sdt	
+Charitable Gift Annuity with a Family Foundation	\2010\Templates\Financial & Estate Planning\Tax Planning\Charitable Gift Annuity with a Family Foundation_544.sdt	
+Charitable Lead Trust (CLT)	\2010\Templates\Financial & Estate Planning\Trusts\Charitable Lead Trust (CLT)_579.sdt	
+Charitable Remainder Trust (CRT)	\2010\Templates\Financial & Estate Planning\Trusts\Charitable Remainder Trust (CRT)_580.sdt	
+Checklist	\2010\Templates\Financial & Estate Planning\Basic Estate Planning\Checklist_489.sdt	
+Combination of Charitable Remainder Unitrust and a Wealth Replacement Trust	\2010\Templates\Financial & Estate Planning\Trusts\Combination of Charitable Remainder Unitrust and a Wealth Replacement Trust_581.sdt	
+Combination of Revocable Living Trust, Marital Trust, QTIP Trust and ILIT	\2010\Templates\Financial & Estate Planning\Tax Planning\Combnation of Revocable Living Trust, Mmarital Trust, QTIP Trust and ILIT_545.sdt	
+Credit Shelter Trust	\2010\Templates\Financial & Estate Planning\Trusts\Credit Shelter Trust_1_582.sdt	
+Discount Dollar Plan for Married Couples for Various Estate Sizes and Ages	\2010\Templates\Financial & Estate Planning\Tax Planning\Discount Dollar Plan for married Couples for Various Estate Sizes and Ages_546.sdt	
+Discounted Dollar Plan for Single Persons for Various Estate Sizes and Age - Male	\2010\Templates\Financial & Estate Planning\Tax Planning\Discounted Dollar Plan for Single Persons for Various Estate Sizes and Age - Male_547.sdt	
+Distribution per Capita	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Distribution per Capita_531.sdt	
+Distribution per Stirpes	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Distribution per Stirpes_532.sdt	
+Dynasty Trust	\2010\Templates\Financial & Estate Planning\Trusts\Dynasty Trust_583.sdt	
+EGTRRA 2001 Estate and Gift Tax Schedule	\2010\Templates\Financial & Estate Planning\Tax Planning\EGTRRA 2001 Estate and Gift Tax Schedule_548.sdt	
+Estate Planning Mind Map	\2010\Templates\Financial & Estate Planning\Basic Estate Planning\Estate Planning Mind Map_490.sdt	
+Estate Planning Steps	\2010\Templates\Financial & Estate Planning\Basic Estate Planning\Estate Planning Steps_491.sdt	
+Estate Tax Planning for Couples	\2010\Templates\Financial & Estate Planning\Tax Planning\Estate Tax Planning for Couples_549.sdt	
+Estate Values That Increase Over Time	\2010\Templates\Financial & Estate Planning\Basic Estate Planning\Estate Values That Increase Over Time_492.sdt	
+Example - Charitable Lead Annuity Trust	\2010\Templates\Financial & Estate Planning\Trusts\Example - Charitable Lead Annuity Trust_584.sdt	
+Example - Charitable Remainder Annuity Trust	\2010\Templates\Financial & Estate Planning\Trusts\Example - Charitable Remainder Annuity Trust_585.sdt	
+Example - How a Family Trust Can Benefit Other Family Members	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Example - How a Family Trust Can Benefit Other Family Members_565.sdt	
+Example - Pooled Income Fund	\2010\Templates\Financial & Estate Planning\Trusts\Example - Pooled Income Fund_586.sdt	
+Example - What the Grantor Charitable Lead Trust Can Accomplish	\2010\Templates\Financial & Estate Planning\Trusts\Example - What the Grandor Charitable Lead Trust can Accomplish_587.sdt	
+Family Pyramid - Future	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Family Pyramid - Future_533.sdt	
+Family Pyramid - Past	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Family Pyramid - Past_534.sdt	
+Federal Estate Tax Chart	\2010\Templates\Financial & Estate Planning\Tax Planning\Federal Estate Tax Chart_551.sdt	
+Federal Estate Tax Escapes	\2010\Templates\Financial & Estate Planning\Tax Planning\Federal Estate Tax Escapes_552.sdt	
+Federal Estate Taxable Inclusions	\2010\Templates\Financial & Estate Planning\Tax Planning\Federal Estate Taxable Inclusions_553.sdt	
+Federal Estate and Gift Tax Rates	\2010\Templates\Financial & Estate Planning\Tax Planning\Federal Estate and Gift Tax Rates_550.sdt	
+Federal Gift Tax Chart	\2010\Templates\Financial & Estate Planning\Tax Planning\Federal Gift Tax Chart_554.sdt	
+Federal Gift Tax Escapes	\2010\Templates\Financial & Estate Planning\Tax Planning\Federal Gift Tax Escapes_555.sdt	
+Flow of Assets from a Marital Gross Estate	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Flow of Assets from a Marital Gross Estate_535.sdt	
+Future Wealth Holder's Gender Shift	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Future Wealth Holder's Gender Shift_536.sdt	
+Giftmark Checklists	\2010\Templates\Financial & Estate Planning\Tax Planning\Giftmark Checklists_556.sdt	
+Gross Estate Form	\2010\Templates\Financial & Estate Planning\Basic Estate Planning\Gross Estate Form_493.sdt	
+Income Tax Rates for Estates and Trusts	\2010\Templates\Financial & Estate Planning\Tax Planning\Income Tax Rates for Estates and Trusts_557.sdt	
+Inheritance Attitudes	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Inheritance Attitudes_537.sdt	
+Inheritance Disclaimed by Primary Heirs	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Inheritance Disclaimed by Primary Heirs_566.sdt	
+Inheritance Leaks	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Inheritance Leaks_567.sdt	
+Irrevocable Life Insurance Trust (ILIT)	\2010\Templates\Financial & Estate Planning\Trusts\Irrevoable Life Insurane Trust (ILIT)_588.sdt	
+Law of Intestacy	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Law of Intestacy_538.sdt	
+Life Expectancy Tables	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Life Expectancy Tables_539.sdt	
+Life Settlement Examples	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Life Settlement Examples_540.sdt	
+Living Trust - Married Couple Common Pool	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Living Trust - Married Couple Common Pool_568.sdt	
+Living Trust - Single	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Living Trust - Single_569.sdt	
+Living Trust Funding Methods	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Living Trust Funding Methods_570.sdt	
+Living Trust Funding Variations	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Living Trust Funding Variations_571.sdt	
+Living Trust with Irrevocable Life Insurance	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Living Trust with Irrevocable Life Insurance_572.sdt	
+Ownership and Taxation of Life Insurance Claims	\2010\Templates\Financial & Estate Planning\Tax Planning\Ownership and Taxation of Life Insurance Claims_558.sdt	
+Per Stirpes v Per Capita	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Per Stirpes v Per Capita_541.sdt	
+Plan C1 - Charitable Gift Chart	\2010\Templates\Financial & Estate Planning\Trusts\Plan C1 - Charitable Gift Chart_589.sdt	
+Plan C2 - Charitable Remainder Trust	\2010\Templates\Financial & Estate Planning\Trusts\Plan C2 - Charitable Remainder Trust_590.sdt	
+Plan C3 - Charitable Remainder Trust with Life Insurance Replacement Trust	\2010\Templates\Financial & Estate Planning\Trusts\Plan C3 - Charitable Remainder Trust with Life Insurance Replacement Trust_591.sdt	
+Plan C4 - Charitable Lead Trust	\2010\Templates\Financial & Estate Planning\Trusts\Plan C4 - Charitable Lead Trust_592.sdt	
+Primary Difference Between Wills and Revocable Living Trusts	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Primary Difference Between Wills and Revocable Living Trusts_573.sdt	
+Primary Use and Structure of the Irrevocable Life Insurance Trust and Dynasty Trust	\2010\Templates\Financial & Estate Planning\Trusts\Primary Use and Structure of the Irrevocable Life Insurance Trust and Dynasty Trust_593.sdt	
+Probate and Living Trust Asset Transfers	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Probate and Living Trust Asset Transfers_574.sdt	
+Probate, and Living Trust Asset Transfer Comparison	\2010\Templates\Financial & Estate Planning\Basic Estate Planning\Probate, and Living Trust Asset Transfer Comparison_52_494.sdt	
+Project Risk	\2010\Templates\Financial & Estate Planning\Basic Estate Planning\Project Risk_495.sdt	
+Property Mind Map After Death	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Property Mind Map After Death_575.sdt	
+QTIP Family Medical Trusts	\2010\Templates\Financial & Estate Planning\Tax Planning\QTIP Family Medical Trusts_559.sdt	
+Quarterback Method Versus the Client Method	\2010\Templates\Financial & Estate Planning\Basic Estate Planning\Quarterback Method Versus the Client Method_496.sdt	
+Reasons to Plan Your Estate	\2010\Templates\Financial & Estate Planning\Basic Estate Planning\Reasons to Plan Your Estate_497.sdt	
+Required Minimum Distribution Uniform Lifetime Table	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Required Minimum Distribution Uniform Lifetime Table_542.sdt	
+Reverse QTIP Trust	\2010\Templates\Financial & Estate Planning\Tax Planning\Reverse QTIP Trust_560.sdt	
+Sample Plan for a Revocable Living Trust	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Sample Plan for a Revocable Living Trust_576.sdt	
+Sample Trusts at the Death of the Survivor	\2010\Templates\Financial & Estate Planning\Transfer of Assets\Sample Trusts at the Death of the Survivor_577.sdt	
+Statement of Assets	\2010\Templates\Financial & Estate Planning\Basic Estate Planning\Statement of Assets_498.sdt	
+Summary of Income Tax Deduction Rules for Charitable Gifts by Individuals	\2010\Templates\Financial & Estate Planning\Tax Planning\Summary of Income Tax Deduction Rules for Charitable Gifts by Individuals_561.sdt	
+Table of Consanguinity - Legal Heirs	\2010\Templates\Financial & Estate Planning\Inheritance Planning & Estate Goals\Table of Consanguinity - Legal Heirs_543.sdt	
+Trust Distribution	\2010\Templates\Financial & Estate Planning\Trusts\Trust Distribution_594.sdt	
+Types of Irrevocable Trusts	\2010\Templates\Financial & Estate Planning\Trusts\Types of Irrevocable Trusts_595.sdt	
+Typical Components of the Discounted Dollar Plan	\2010\Templates\Financial & Estate Planning\Tax Planning\Typical Components of the Discounted Dollar Plan_562.sdt	
+Use of the Dynasty Trust	\2010\Templates\Financial & Estate Planning\Trusts\Use of the Dynasty Trust_596.sdt	
+Will or Trust	\2010\Templates\Financial & Estate Planning\Trusts\Will or Trust_597.sdt	
+
+Fire Scene Safety	[BOOKMARK]	
+Establishing the Role of First Responders - Coordinate Activities	\2010\Examples\Fire Scene Reconstruction\Establishing the Role of First Responders - Coordinate Activities_133.sdt	
+Establishing the Role of First Responders - Establish Security and Control	\2010\Examples\Fire Scene Reconstruction\Establishing the Role of First Responders - Establish Security and Control_134.sdt	
+Establishing the Role of First Responders - Exercise Scene Safety	\2010\Examples\Fire Scene Reconstruction\Establishing the Role of First Responders - Exercise Scene Safety_135.sdt	
+Establishing the Role of First Responders - Observe the Fire and Scene Conditions	\2010\Examples\Fire Scene Reconstruction\Establishing the Role of First Responders - Observe the Fire and Scene Conditions_136.sdt	
+Evaluating the Scene - Assess Scene Security at the Time of the Fire	\2010\Examples\Fire Scene Reconstruction\Evaluating the Scene - Assess Scene Security at the Time of the Fire_137.sdt	
+Evaluating the Scene - Define the Extent of the Scene	\2010\Examples\Fire Scene Reconstruction\Evaluating the Scene - Define the Extent of the Scene_138.sdt	
+Evaluating the Scene - Identify and Interview Witnesses at the Scene	\2010\Examples\Fire Scene Reconstruction\Evaluating the Scene - Identify and Interview Witnesses at the Scene_139.sdt	
+Preserve the Fire Scene - Evidence that May be Present at the Scene	\2010\Examples\Fire Scene Reconstruction\Preserve the Fire Scene - Evidence that May be Present at the Scene_142.sdt	
+Preserve the Fire Scene - Protect Evidence	\2010\Examples\Fire Scene Reconstruction\Preserve the Fire Scene - Protect Evidence_143.sdt	
+Preserve the Fire Scene - Threats to Evidence	\2010\Examples\Fire Scene Reconstruction\Preserve the Fire Scene - Threats to Evidence_144.sdt	
+		
+Military Planning/Military Diagram Templates	[Bookmark]	
+MIL-STD-2525B	\2010\Templates\Tactical Planning\Basics\MIL-STD-2525B_3881.sdt	
+NATO Diagram	\2010\Templates\Tactical Planning\Basics\NATO Diagram_3882.sdt	
+SWAT Diagram	\2010\Templates\Tactical Planning\Basics\SWAT Diagram_3883.sdt	
+Military Examples	[HEADER]	
+Military Diagram - 1	\2010\Examples\Tactical Planning\Military Diagrams\Military Diagram - 1_334.sdt	
+Military Diagram - 2	\2010\Examples\Tactical Planning\Military Diagrams\Military Diagram - 2_335.sdt	
+NATO Diagram - 1	\2010\Examples\Tactical Planning\NATO Diagrams\NATO Diagram - 1_336.sdt	
+NATO Diagram - 2	\2010\Examples\Tactical Planning\NATO Diagrams\NATO Diagram - 2_337.sdt	
+Areas of Responsibility	\2010\Examples\Tactical Planning\Formation Diagrams\Areas of Responsibility_326.sdt	
+Cover Formations - Linear Stack	\2010\Examples\Tactical Planning\Formation Diagrams\Cover Formations - Linear Stack_327.sdt	
+Cover Formations - Standard Y Formation	\2010\Examples\Tactical Planning\Formation Diagrams\Cover Formations - Standard Y Formation_328.sdt	
+Cover Formations - Use of Vehicle	\2010\Examples\Tactical Planning\Formation Diagrams\Cover Formations - Use of Vehicle_329.sdt	
+Cover Formations - Wedge	\2010\Examples\Tactical Planning\Formation Diagrams\Cover Formations - Wedge_330.sdt	
+Room Containment - 01	\2010\Examples\Tactical Planning\Containment Diagrams\Room Containment - 01_311.sdt	
+Room Containment - 02	\2010\Examples\Tactical Planning\Containment Diagrams\Room Containment - 02_312.sdt	
+Room Containment - 03	\2010\Examples\Tactical Planning\Containment Diagrams\Room Containment - 03_313.sdt	
+Room Containment - 04	\2010\Examples\Tactical Planning\Containment Diagrams\Room Containment - 04_314.sdt	
+Room Containment - 05	\2010\Examples\Tactical Planning\Containment Diagrams\Room Containment - 05_315.sdt	
+Room Containment - 06	\2010\Examples\Tactical Planning\Containment Diagrams\Room Containment - 06_316.sdt	
+Room Containment - 07	\2010\Examples\Tactical Planning\Containment Diagrams\Room Containment - 07_317.sdt	
+Room Containment - 08	\2010\Examples\Tactical Planning\Containment Diagrams\Room Containment - 08_318.sdt	
+Room Containment - 09	\2010\Examples\Tactical Planning\Containment Diagrams\Room Containment - 09_319.sdt	
+Room Containment - 10	\2010\Examples\Tactical Planning\Containment Diagrams\Room Containment - 10_320.sdt	
+Room Containment - 11	\2010\Examples\Tactical Planning\Containment Diagrams\Room Containment - 11_321.sdt	
+Stack Formation Through a Opening - 1	\2010\Examples\Tactical Planning\Formation Diagrams\Stack Formation Through a Opening - 1_331.sdt	
+Stack Formation Through a Opening - 2	\2010\Examples\Tactical Planning\Formation Diagrams\Stack Formation Through a Opening - 2_332.sdt	
+Stack Formation Through a Opening - 3	\2010\Examples\Tactical Planning\Formation Diagrams\Stack Formation Through a Opening - 3_333.sdt	
+Stairwell Containment - 1	\2010\Examples\Tactical Planning\Containment Diagrams\Stairwell Containment - 1_322.sdt	
+Stairwell Containment - 2	\2010\Examples\Tactical Planning\Containment Diagrams\Stairwell Containment - 2_323.sdt	
+Stairwell Containment - 3	\2010\Examples\Tactical Planning\Containment Diagrams\Stairwell Containment - 3_324.sdt	
+Stairwell Containment - 4	\2010\Examples\Tactical Planning\Containment Diagrams\Stairwell Containment - 4_325.sdt	
+
+Paralegal Practice	[Bookmark]	
+Actus Reus	\2010\Templates\Paralegal Practice\Criminal Law\Actus Reus._249_15.sdt	
+Advantages and Disadvantages of Incorporation	\2010\Templates\Paralegal Practice\Basics\Advantages and Disadvantages of Incorporation_1.sdt	
+Allowable Post-Petition Claims	\2010\Templates\Paralegal Practice\Federal Bankruptcy\Allowable Post-Petition Claims._270_36.sdt	
+Alternative Methods of Resolving a Litigation Dispute	\2010\Templates\Paralegal Practice\Trial Preparation and Procdure\Alternative Methods of Resolving a Litigation Dispute._333_98.sdt	
+Answer and Counterclaim	\2010\Templates\Paralegal Practice\Pretrial Practice and Procedure\Answer and Counterclaim._319_84.sdt	
+Automatic Stay	\2010\Templates\Paralegal Practice\Federal Bankruptcy\Automatic Stay._271_37.sdt	
+Bad Faith - Extra Contract Liability	\2010\Templates\Paralegal Practice\Basics\Bad Faith - Extra Contract Liability._238_4.sdt	
+Chapter 11 to Chapter 12 Filing Conversion	\2010\Templates\Paralegal Practice\Federal Bankruptcy\Chapter 11 to Chapter 12 Filing Conversion._272_38.sdt	
+Commencing a Trial	\2010\Templates\Paralegal Practice\Trial Preparation and Procdure\Commencing a Trial._334_99.sdt	
+Common Affirmative Defenses	\2010\Templates\Paralegal Practice\Pretrial Practice and Procedure\Common Affirmative Defenses._320_85.sdt	
+Complex Litigation	\2010\Templates\Paralegal Practice\Electronic Trial Preparation Procedures\Complex Litigation._256_22.sdt	
+Component of a Deed	\2010\Templates\Paralegal Practice\Real Estate\Component of a Deed._323_88.sdt	
+Component of a Demand Letter	\2010\Templates\Paralegal Practice\Basics\Component of a Demand Letter._239_5.sdt	
+Criminal Process	\2010\Templates\Paralegal Practice\Criminal Law\Criminal Process._250_16.sdt	
+Discharge in Bankruptcy	\2010\Templates\Paralegal Practice\Federal Bankruptcy\Discharge in Bankruptcy._273_39.sdt	
+Discovery Procedures	\2010\Templates\Paralegal Practice\Federal Court\Discovery Procedures._280_45.sdt	
+Discovery Protective Orders	\2010\Templates\Paralegal Practice\Pretrial Discovery\Discovery Protective Orders._313_78.sdt	
+Due Process	\2010\Templates\Paralegal Practice\Criminal Law\Due Process._251_17.sdt	
+Duties of a Legal Assistant in Determining and Creating Capacity to Sue	\2010\Templates\Paralegal Practice\Cause of Action\Duties of a Legal Assistant in Determining and Creating Capacity to Sue._242_8.sdt	
+Elements Necessary to Create a Contract	\2010\Templates\Paralegal Practice\Contract Action\Elements necessary to Create a Contract._245_11.sdt	
+Enforcing Support Orders	\2010\Templates\Paralegal Practice\Family Law\Enforcing Support Orders._269_35.sdt	
+Establishing a Prima Facie Case Checklist	\2010\Templates\Paralegal Practice\Tort Action\Establishing a Prima Facie Case Checklist._329_94.sdt	
+Federal Court Practice and Procedure	\2010\Templates\Paralegal Practice\Federal Court\Federal Court Practice and Procedure._281_46.sdt	
+Federal Courts	\2010\Templates\Paralegal Practice\Federal Court\Federal Courts._282_47.sdt	
+Filing a Claim in California	\2010\Templates\Paralegal Practice\Cause of Action\Filing a Claim in California._243_9.sdt	
+Five Why's of Discovery	\2010\Templates\Paralegal Practice\Pretrial Discovery\Five Why's of Discovery._314_79.sdt	
+Function of Litigation Support Systems	\2010\Templates\Paralegal Practice\Electronic Trial Preparation Procedures\Function of Litigation Support Systems._257_23.sdt	
+Gathering and Assembling Evidence and Files for Use During Trial	\2010\Templates\Paralegal Practice\Trial Preparation and Procdure\Gathering and Assembling Evidence and Files for Use During Trial._335_100.sdt	
+General Duties of a Legal Assistance in Trial Preparation	\2010\Templates\Paralegal Practice\Trial Preparation and Procdure\General Duties of a Legal Assistance in Trial Preparation._336_101.sdt	
+General Duties of a Legal Assistant	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant._305_70.sdt	
+General Duties of a Legal Assistant in Bankruptcy	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Bankruptcy._291_56.sdt	
+General Duties of a Legal Assistant in Business	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Business._292_57.sdt	
+General Duties of a Legal Assistant in Collections	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Collections._293_58.sdt	
+General Duties of a Legal Assistant in Criminal Cases	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Criminal Cases._294_59.sdt	
+General Duties of a Legal Assistant in Employee Benefits	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Employee Benefits._295_60.sdt	
+General Duties of a Legal Assistant in Family Law	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Family Law._296_61.sdt	
+General Duties of a Legal Assistant in Foreclosure	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Foreclosure._297_62.sdt	
+General Duties of a Legal Assistant in Intellectual Property	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Intellectual Property._298_63.sdt	
+General Duties of a Legal Assistant in Litigation	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Litigation._299_64.sdt	
+General Duties of a Legal Assistant in Probate and Estate Planning	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Probate and Estate Planning._300_65.sdt	
+General Duties of a Legal Assistant in Public Benefit	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Public Benefit._301_66.sdt	
+General Duties of a Legal Assistant in Real Property	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Real Property._302_67.sdt	
+General Duties of a Legal Assistant in Securities and Municipal Bonds	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Securities and Municipal Bonds._303_68.sdt	
+General Duties of a Legal Assistant in Workers' Compensation	\2010\Templates\Paralegal Practice\General Duties\General Duties of a Legal Assistant in Workers' Compensation._304_69.sdt	
+General Duties of the Legal Assistant	\2010\Templates\Paralegal Practice\Real Estate\General Duties of the Legal Assistant._324_89.sdt	
+Glossary of Contract Action Terms	\2010\Templates\Paralegal Practice\Contract Action\Glossary of Contract Action Terms._246_12.sdt	
+Glossary of Terms for Estate Planning	\2010\Templates\Paralegal Practice\Estate Planning & Administration\Glossary of Terms for Estate Planning._264_30.sdt	
+Grounds for Denial of Discharge	\2010\Templates\Paralegal Practice\Federal Bankruptcy\Grounds for Denial of Discharge._274_40.sdt	
+Guidelines for Preparing the Legal Memorandum	\2010\Templates\Paralegal Practice\Legal Search Tools\Guidelines for Preparing the Legal Memorandum._310_75.sdt	
+Handling a Conservatorship	\2010\Templates\Paralegal Practice\Estate Planning & Administration\Handling a Conservatorship._265_31.sdt	
+Handling an Estate Matter	\2010\Templates\Paralegal Practice\Estate Planning & Administration\Handling an Estate Matter._266_32.sdt	
+In Court Trial Procedures	\2010\Templates\Paralegal Practice\Trial Preparation and Procdure\In Court Trial Procedures._337_102.sdt	
+Interrogatories	\2010\Templates\Paralegal Practice\Pretrial Discovery\Interrogatories._315_80.sdt	
+Master Trial Checklist	\2010\Templates\Paralegal Practice\Tort Action\Master Trial Checklist._330_95.sdt	
+Methods for Resolving Legal Controversies - Alternatives to Trial	\2010\Templates\Paralegal Practice\Federal Court\Methods for Resolving Legal Controversies - Alternatives to Trial._283_48.sdt	
+Overall Duties of a Legal Assistant in Complex Litigation	\2010\Templates\Paralegal Practice\Electronic Trial Preparation Procedures\Overall Duties of a Legal Assistant in Complex Litigation._259_25.sdt	
+Pleadings and Motions	\2010\Templates\Paralegal Practice\Federal Court\Pleadings and Motions._284_49.sdt	
+Pleadings and Motions	\2010\Templates\Paralegal Practice\State Court\Pleadings and Motions._325_90.sdt	
+Post-Trial Procedure After Verdict	\2010\Templates\Paralegal Practice\Criminal Law\Post-Trial Procedure After Verdict._252_18.sdt	
+Prejudgment Attachment - Plaintiff	\2010\Templates\Paralegal Practice\Judgments\Prejudgment Attachment - Plaintiff._308_73.sdt	
+Probating the Estate	\2010\Templates\Paralegal Practice\Estate Planning & Administration\Probating the Estate._267_33.sdt	
+Problems Inherent in Complex Litigation	\2010\Templates\Paralegal Practice\Electronic Trial Preparation Procedures\Problems Inherent in Complex Litigation._260_26.sdt	
+Problems with Actus Reus	\2010\Templates\Paralegal Practice\Criminal Law\Problems with Actus Reus._253_19.sdt	
+Procedure - Removal of a State Court Action to the Federal Court System	\2010\Templates\Paralegal Practice\Federal Court\Procedure - Removal of a State Court Action to the Federal Court System._285_50.sdt	
+Procedure Before Filing Bankruptcy Petition	\2010\Templates\Paralegal Practice\Federal Bankruptcy\Procedure Before Filing Bankruptcy Petition._275_41.sdt	
+Procedure for Federal Court Action - Pleading Stage	\2010\Templates\Paralegal Practice\Federal Court\Procedure for Federal Court Action - Pleading Stage._286_51.sdt	
+Procedure for Filing a Multi-District Litigation Claim	\2010\Templates\Paralegal Practice\Federal Court\Procedure for Filing a Multi-District Litigation Claim._287_52.sdt	
+Procedure for Objecting to Discharge of Bankruptcy	\2010\Templates\Paralegal Practice\Federal Bankruptcy\Procedure for Objecting to Discharge of Bankruptcy._276_42.sdt	
+Procedure for Trial Preparation	\2010\Templates\Paralegal Practice\General Duties\Procedure for Trial Preparation._306_71.sdt	
+Procedures Used to Enforce Money Judgment	\2010\Templates\Paralegal Practice\Judgments\Procedures Used to Enforce Money Judgment._309_74.sdt	
+Procedures for Filing Motions	\2010\Templates\Paralegal Practice\Federal Court\Procedures for Filing Motions._288_53.sdt	
+Product Liability	\2010\Templates\Paralegal Practice\Tort Action\Product Liability._331_96.sdt	
+Progress of a Case Through Trial and Appeal	\2010\Templates\Paralegal Practice\Trial Preparation and Procdure\Progress of a Case Through Trial and Appeal._338_103.sdt	
+Proving a Prima Facie Case	\2010\Templates\Paralegal Practice\Admissibility and Use of Evidence\Proving a Prima Facie Case._235_1.sdt	
+Public Sector Paralegal	\2010\Templates\Paralegal Practice\General Duties\Public Sector Paralegal._307_72.sdt	
+Quality to Look For in a Paralegal	\2010\Templates\Paralegal Practice\Basics\Quality to Look For in a Paralegal._240_6.sdt	
+Role of the Legal Assistance in Interviewing a Client	\2010\Templates\Paralegal Practice\Federal Bankruptcy\Role of the Legal Assistance in Interviewing a Client._277_43.sdt	
+Rules of Evidence	\2010\Templates\Paralegal Practice\Admissibility and Use of Evidence\Rules of Evidence._236_2.sdt	
+Service of Process (Civil)	\2010\Templates\Paralegal Practice\Pretrial Practice and Procedure\Service of Process (Civil)._321_86.sdt	
+Setting the Deposition	\2010\Templates\Paralegal Practice\Pretrial Discovery\Setting the Deposition._316_81.sdt	
+Small Claims Court Checklist	\2010\Templates\Paralegal Practice\State Court\Small Claims Court Checklist._326_91.sdt	
+State Court Practice and Procedure	\2010\Templates\Paralegal Practice\State Court\State Court Practice and Procedure._327_92.sdt	
+State Courts	\2010\Templates\Paralegal Practice\State Court\State Courts._328_93.sdt	
+Summarizing a Deposition	\2010\Templates\Paralegal Practice\Pretrial Discovery\Summarizing a Deposition._317_82.sdt	
+Summary Judgment	\2010\Templates\Paralegal Practice\Pretrial Practice and Procedure\Summary Judgment._322_87.sdt	
+Traditional Tools of Legal Research	\2010\Templates\Paralegal Practice\Legal Search Tools\Traditional Tools of Legal Research._312_77.sdt	
+Trial Book Outline	\2010\Templates\Paralegal Practice\Tort Action\Trial Book Outline._332_97.sdt	
+Trial Preparation Procedure	\2010\Templates\Paralegal Practice\Criminal Law\Trial Preparation Procedure._254_20.sdt	
+Types of Crime	\2010\Templates\Paralegal Practice\Criminal Law\Types of Crime._255_21.sdt	
+Types of Discovery	\2010\Templates\Paralegal Practice\Pretrial Discovery\Types of Discovery._318_83.sdt	
+Types of Evidence	\2010\Templates\Paralegal Practice\Admissibility and Use of Evidence\Types of Evidence._237_3.sdt	
+Types of Trusts	\2010\Templates\Paralegal Practice\Estate Planning & Administration\Types of Trusts._268_34.sdt	
+Typical Legal Tasks which can be Delegated to a Paralegal	\2010\Templates\Paralegal Practice\Basics\Typical Legal Tasks which can be Delegated to a Paralegal._241_7.sdt	
+Typical Subject That Can be Computerized	\2010\Templates\Paralegal Practice\Electronic Trial Preparation Procedures\Typical Subject That Can be Computerized._262_28.sdt	
+United States Courts of Appeal	\2010\Templates\Paralegal Practice\Federal Court\United States Courts of Appeal._289_54.sdt	
+United States District Courts	\2010\Templates\Paralegal Practice\Federal Court\United States District Courts._290_55.sdt	
+Unsecured Claims Checklist	\2010\Templates\Paralegal Practice\Federal Bankruptcy\Unsecured Claims Checklist._278_44.sdt	
+What is a Cause of Action	\2010\Templates\Paralegal Practice\Cause of Action\What is a Cause of Action._244_10.sdt	

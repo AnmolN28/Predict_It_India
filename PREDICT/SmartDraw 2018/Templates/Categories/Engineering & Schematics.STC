@@ -1,0 +1,182 @@
+Engineering Diagrams/Engineering Templates	[Bookmark]
+Basic Electrical	\2010\Templates\Engineering\Basic Electrical_1.sdt
+Block Diagram	\2010\Templates\Engineering\Block Flow Diagram_2.sdt
+Circuit Panel	\2010\Templates\Engineering\Circuit Panel_3.sdt
+Electrical Diagram	\2010\Templates\Engineering\Electrical Diagram.sdt
+Electrical Wiring	\2010\Templates\Engineering\Electrical Wiring_4.sdt
+Fire Safety & Equipment	\2010\Templates\Engineering\Fire Safety & Equipment_5.sdt
+Fluid Power	\2010\Templates\Engineering\Fluid Power_6.sdt
+Home Automation	\2010\Templates\Engineering\Home Automation_7.sdt
+HVAC	\2010\Templates\Engineering\HVAC_8.sdt
+IEC - 60417	\2010\Templates\Engineering\IEC - 60417_9.sdt
+IEC - 60617	\2010\Templates\Engineering\IEC - 60617_10.sdt
+IEEE	\2010\Templates\Engineering\IEEE_11.sdt
+Industrial Automation	\2010\Templates\Engineering\Industrial Automation_12.sdt
+Industrial Electrical	\2010\Templates\Engineering\Industrial Electrical_13.sdt
+Logic Diagram	\2010\Templates\Engineering\Logic Diagram_14.sdt
+Mechanical Diagram	\2010\Templates\Engineering\Mechanical Diagram.sdt
+NECA	\2010\Templates\Engineering\NECA_15.sdt
+Oil & Gas	\2010\Templates\Engineering\Oil & Gas_1.sdt
+Piping & Instrumentation	\2010\Templates\Engineering\Piping & Instrumentation_16.sdt
+Process Flow	\2010\Templates\Engineering\Process Flow_1.sdt
+Propane	\2010\Templates\Engineering\Propane_17.sdt
+Radio Electronics	\2010\Templates\Engineering\Radio Electronics_18.sdt
+Renewable Energy	\2010\Templates\Engineering\Renewable Energy_2.sdt
+Tools & Fasteners	\2010\Templates\Engineering\Tools & Fasteners_19.sdt
+Water Treatment	\2010\Templates\Engineering\Water Treatment_3.sdt
+Welding	\2010\Templates\Engineering\Welding_20.sdt
+
+Architectural Blueprints	[Bookmark]	
+Custom Blueprint	\2010\Templates\Floor Plans\CAD\Blueprint.sdt		floorplanscommercial
+Architectural Blueprint Examples	[Header]
+Office Building Layout - 1	\2010\Templates\Floor Plans\CAD\Office Layout - 1_609.sdt	
+Office Building Layout - 2	\2010\Templates\Floor Plans\CAD\Office Layout - 2_610.sdt	
+Office Building Layout - 3	\2010\Templates\Floor Plans\CAD\Office Layout - 3_611.sdt	
+Office Building Layout - 4	\2010\Templates\Floor Plans\CAD\Office Layout - 4_612.sdt	
+Office Building Layout - 5	\2010\Templates\Floor Plans\CAD\Office Building - 1 - First Floor_605.sdt	
+Office Building Layout - 6	\2010\Templates\Floor Plans\CAD\Office Building - 1 - Second Floor_606.sdt	
+Office Building Layout - 7	\2010\Templates\Floor Plans\CAD\Office Building - 2 - First Floor_607.sdt	
+Office Building Layout - 8	\2010\Templates\Floor Plans\CAD\Office Building - 2 - Second Floor_608.sdt	
+Office Building Layout - 9	\2010\Templates\Floor Plans\CAD\Cubicle Layout - 2_8.sdt	
+Office Building Layout - 10	\2010\Templates\Floor Plans\CAD\Cubicle Layout - 3_9.sdt	
+House Plan - Cape Style	\2010\Templates\Floor Plans\CAD\Example - Cape Style 1F_634.sdt	
+House Plan - Contemporary	\2010\Templates\Floor Plans\CAD\Example - Contemporary Style 1_635.sdt	
+House Plan - H-Ranch	\2010\Templates\Floor Plans\CAD\Example - H-Ranch Style_636.sdt	
+House Plan - Traditional Home	\2010\Templates\Floor Plans\CAD\Example - Traditional Style 4_637.sdt	
+House Plan with Electrical Layout	\2010\Templates\Floor Plans\CAD\Electrical Plan - House_617.sdt	
+House Plan with Emergency Layout	\2010\Templates\Floor Plans\CAD\Emergency Floor Plan - House_622.sdt	
+House Plan with Security Layout	\2010\Templates\Floor Plans\CAD\Home Security Plan_620.sdt	
+
+Drafting/Drafting - Imperial (US) Scale	[Bookmark]
+1" = 1" Scale	\2010\Templates\CAD\Imperial (US)\Scale 1-1.sdt
+0.5" = 1" Scale	\2010\Templates\CAD\Imperial (US)\Scale 0-2.sdt
+1" = 4' Scale	\2010\Templates\CAD\Imperial (US)\Scale 1-4.sdt
+1" = 8' Scale	\2010\Templates\CAD\Imperial (US)\Scale 1-8.sdt
+1" = 12' Scale	\2010\Templates\CAD\Imperial (US)\Scale 1-12.sdt
+1" = 16' Scale	\2010\Templates\CAD\Imperial (US)\Scale 1-16.sdt
+1" = 24' Scale	\2010\Templates\CAD\Imperial (US)\Scale 1-24.sdt
+1" = 32' Scale	\2010\Templates\CAD\Imperial (US)\Scale 1-32.sdt
+1" = 48' Scale	\2010\Templates\CAD\Imperial (US)\Scale 1-48.sdt
+1" = 64' Scale	\2010\Templates\CAD\Imperial (US)\Scale 1-64.sdt
+1" = 96' Scale	\2010\Templates\CAD\Imperial (US)\Scale 1-96.sdt
+1" = 128' Scale	\2010\Templates\CAD\Imperial (US)\Scale 1-128.sdt
+Drafting - Metric Scale	[Header]
+1cm = 10 mm (1:1)	\2010\Templates\CAD\Metric\Scale 1-1.sdt
+1cm = 20 mm (1:2)	\2010\Templates\CAD\Metric\Scale 1-2.sdt
+1cm = 50 mm (1:5)	\2010\Templates\CAD\Metric\Scale 1-5.sdt
+1cm = 100 mm (1:10)	\2010\Templates\CAD\Metric\Scale 1-10.sdt
+1cm = 200 mm (1:20)	\2010\Templates\CAD\Metric\Scale 1-20.sdt
+1cm = 250 mm (1:25)	\2010\Templates\CAD\Metric\Scale 1-25.sdt
+1cm = 500 mm (1:50)	\2010\Templates\CAD\Metric\Scale 1-50.sdt
+1cm = 1000 mm (1:100)	\2010\Templates\CAD\Metric\Scale 1-100.sdt
+Block Diagrams/Block Diagram Templates	[Bookmark]
+Block Diagram	\2010\Templates\Engineering\Block Flow Diagram_2.sdt	Block Flow Diagram	
+Block Diagram Examples	[Header]
+Block Diagram - Chemical Facility	\2010\Examples\Engineering\Block Diagram - Chemical Facility_105.sdt	
+Block Diagram - Scoreboard	\2010\Examples\Engineering\Block Diagram - Scoreboard_106.sdt	
+
+Circuit Diagrams & Panels/Circuit Panel & Diagram Templates	[Bookmark]
+Circuit Diagram	\2010\Templates\Engineering\Basic Electrical_1.sdt	
+Circuit Panel	\2010\Templates\Engineering\Circuit Panel_3.sdt	
+Circuit Diagram & Circuit Panel Examples	[Header]
+Circuit Diagram - Microphone Pre-Amplifier	\2010\Examples\Engineering\Circuit Diagram - Microphone Pre-Amplifier_107.sdt	
+Circuit Diagram - Pocket Pager	\2010\Examples\Engineering\Circuit Diagram - Pocket Pager_108.sdt	
+Circuit Panel - Basic	\2010\Examples\Engineering\Circuit Panel - Basic_109.sdt	
+Circuit Panel - Lug	\2010\Examples\Engineering\Circuit Panel - Lug_110.sdt	
+
+Dual in-line Package	[Bookmark]
+8-pin DIP	\2016\DIP\8-pin DIP.sdt
+14-pin DIP	\2016\DIP\14-pin DIP.sdt
+16-pin DIP	\2016\DIP\16-pin DIP.sdt
+18-pin DIP	\2016\DIP\18-pin DIP.sdt
+20-pin DIP	\2016\DIP\20-pin DIP.sdt
+40-pin DIP	\2016\DIP\40-pin DIP.sdt
+
+Electrical Plans/Electrical Plan Templates	[Bookmark]
+Basic Electrical	\2010\Templates\Engineering\Basic Electrical_1.sdt	
+Electrical Plan Examples	[Header]
+Electrical Plan - House	\2010\Templates\Floor Plans\Electrical Plan\Electrical Plan - House_617.sdt	
+Electrical Plan - Office	\2010\Templates\Floor Plans\Electrical Plan\Electrical Plan - Office_618.sdt	
+Electrical Plan - Patient Room	\2010\Templates\Floor Plans\Electrical Plan\Electrical Plan - Patient Room_619.sdt	
+Home Security Plan	\2010\Templates\Floor Plans\Electrical Plan\Home Security Plan_620.sdt	
+Capacitor Color Code	\2010\Examples\Engineering\Basic - Capacitor Color Code_103.sdt	
+NECA Abbreviations	\2010\Examples\Engineering\Basic - NECA Abbreviations_104.sdt	
+Fault Tree	[Bookmark]
+Blank Fault Tree	\2015\Fault Tree\Blank Fault Tree.sdt		faulttree
+Fault Tree Examples	[Header]
+Fault Tree Example - Doorbell Failure	\2015\Fault Tree\Fault Tree Example - Doorbell Failure.sdt
+Fault Tree Example - Tank Failure	\2015\Fault Tree\Fault Tree Example - Tank Failure.sdt
+Fault Tree Example - Vehicle Collision	\2015\Fault Tree\Fault Tree Example - Vehicle Collision.sdt
+
+Fluid Power/Fluid Power Templates	[Bookmark]
+Fluid Power	\2010\Templates\Engineering\Fluid Power_6.sdt	
+Fluid Power Example	[Header]
+Fluid Power Example	\2010\Examples\Engineering\Fluid Power_111.sdt	
+
+HVAC/HVAC Templates	[Bookmark]
+HVAC	\2010\Templates\Engineering\HVAC_8.sdt	
+HVAC Examples	[Header]
+HVAC - ASHRAE Cycle	\2010\Examples\Engineering\HVAC - ASHRAE Cycle_112.sdt
+HVAC - Indoor Outdoor Control	\2010\Examples\Engineering\HVAC - Indoor Outdoor Control_113.sdt
+
+Irrigation Plans/Irrigation Plan Templates	[Bookmark]
+Irrigation Plan	\2010\Basics\Landscape_26.sdt		landscapedesign
+Irrigation Plan Examples	[Header]
+Irrigation Plan - Backyard	\2010\Templates\Floor Plans\Irrigation Plan\Irrigation Plan - Backyard_150.sdt	
+Irrigation Plan - Front Yard	\2010\Templates\Floor Plans\Irrigation Plan\Irrigation Plan - Front Yard_151.sdt	
+
+
+Logic Diagrams/Logic Diagram Templates	[Bookmark]
+Logic Diagram	\2010\Templates\Engineering\Logic Diagram_14.sdt	
+Logic Diagram Examples	[Header]
+Logic Diagram - Auto Reversing Circuit	\2010\Examples\Engineering\Logic Diagram - Auto Reversing Circuit_114.sdt	
+Logic Diagram - Karnaugh Map	\2010\Examples\Engineering\Logic Diagram - Karnaugh Map_115.sdt	
+
+Piping Diagrams/Piping Diagram Templates	[Bookmark]
+Piping & Instrumentation	\2010\Templates\Engineering\Piping & Instrumentation_16.sdt	
+Piping Diagram Examples	[Header]
+Piping - Detailed	\2010\Examples\Engineering\Piping - Detailed_116.sdt
+Piping - Instrument Drawing	\2010\Examples\Engineering\Piping - Instrument Drawing_117.sdt
+
+Power Plant Diagrams/Power Plant Diagram Templates	[Bookmark]
+Power Plant Diagram	\2010\Templates\Engineering\Piping & Instrumentation_16.sdt	
+Power Plant Cycle	\2010\Examples\Engineering\Power Plant Cycle_118.sdt
+Power Plant	\2010\Examples\Engineering\Power Plant_119.sdt
+
+Process Flow Diagrams/Process Flow Diagram Templates (PFD's)	[Bookmark]
+Process Flow	\2010\Templates\Engineering\Process Flow_1.sdt	
+Process Flow Examples (PFDs)	[Header]
+Drinking Water Treatment	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Pictorial)\Drinking Water Treatment_186.sdt	
+Natural Gas Industry	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Pictorial)\Natural Gas Industry_187.sdt	
+Oil Industry	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Pictorial)\Oil Industry_188.sdt	
+Oil Sands	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Pictorial)\Oil Sands_189.sdt	
+Water Recycling Process	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Pictorial)\Water Recycling Process_190.sdt	
+Wind Energy	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Pictorial)\Wind Energy_191.sdt	
+Oil Refining - Extraction	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Schematic)\Oil Refining - Extraction_192.sdt	
+Oil Refining - Hydrodesulphurization	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Schematic)\Oil Refining - Hydrodesulfurization_193.sdt	
+Oil Refining - Isomerization - 1	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Schematic)\Oil Refining - Isomerization 1_194.sdt	
+Oil Refining - Isomerization - 2	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Schematic)\Oil Refining - Isomerization 2_195.sdt	
+Petroleum Refinery Process	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Schematic)\Petroleum Refinary Process_196.sdt	
+Solar Heating - Direct Pumped System	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Schematic)\Solar Heating - Direct Pumped System_197.sdt	
+Solar Heating - Indirect Pumped System	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Schematic)\Solar Heating - Indirect Pumped System_198.sdt	
+Solar Heating - Pool Heating System	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Schematic)\Solar Heating - Pool Heating System_199.sdt	
+Solar Heating - Solar Batch Heaters	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Schematic)\Solar Heating - Solar Batch Heaters_200.sdt	
+Solar Heating - Thermosiphon Systems	\2010\Examples\Landman & Civil Engineering\Process Flow Diagrams (Schematic)\Solar Heating - Thermosyphon Systems_201.sdt	
+
+Reflected Ceiling Plans	[Bookmark]
+Cafe with Patio	\2016\Reflected Ceiling Plans\Cafe with Patio.sdt
+Office	\2016\Reflected Ceiling Plans\Office.sdt
+Private Hospital Room	\2016\Reflected Ceiling Plans\Private Hospital Room.sdt
+Store - Lighting	\2016\Reflected Ceiling Plans\Store - Lighting.sdt
+
+Welding Diagrams/Welding Diagram Templates	[Bookmark]
+Welding Diagram	\2010\Templates\Engineering\Welding_20.sdt
+Welding Diagram Examples	[Header]
+Welding - Types of Joints	\2010\Examples\Engineering\Welding - Types of Joints_120.sdt
+Welding Chart	\2010\Examples\Engineering\Welding Chart_121.sdt
+
+Wiring Diagrams	[Bookmark]
+Wiring Diagram	\2010\Basics\Electrical Diagram_16.sdt		engineering
+Wiring Diagram Examples	[Header]
+Wiring Diagram - Auto	\2010\Examples\Engineering\Wiring Diagram - Auto_122.sdt
+Wiring Diagram	\2010\Examples\Engineering\Wiring Diagram_123.sdt

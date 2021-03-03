@@ -1,0 +1,755 @@
+***  Installation Started 10/27/2018 15:55  ***
+Title: SmartDraw 2018 Installation
+Source: C:\Users\saish\DOWNLO~1\SMARTD~1.EXE | 10-27-2018 | 15:55:00 | 523256
+Made Dir: C:\SmartDraw 2018
+File Copy: C:\SmartDraw 2018\Uninstall.exe | 01-20-2017 | 12:26:08 | | 168400 | 42aaacef
+File Copy: C:\SmartDraw 2018\vcomp100.dll
+File Copy: C:\SmartDraw 2018\SmartDraw.Framework.Public[4.0].dll
+File Copy: C:\SmartDraw 2018\SDTSProperties[4.0].dll
+File Copy: C:\SmartDraw 2018\SDTSFramework[4.0].dll
+File Copy: C:\SmartDraw 2018\SDSharePointMgd4.dll
+File Copy: C:\SmartDraw 2018\SDSharePoint4.dll
+File Copy: C:\SmartDraw 2018\msvcr100.dll
+File Copy: C:\SmartDraw 2018\msvcp100.dll
+File Copy: C:\SmartDraw 2018\mfcm100.dll
+File Copy: C:\SmartDraw 2018\mfc100.dll
+File Copy: C:\SmartDraw 2018\atl100.dll
+File Copy: C:\SmartDraw 2018\CaseMapLink.dll
+File Copy: C:\SmartDraw 2018\NDde.dll
+File Copy: C:\SmartDraw 2018\mfc110.dll
+File Copy: C:\SmartDraw 2018\mfcm110.dll
+File Copy: C:\SmartDraw 2018\msvcr110.dll
+File Copy: C:\SmartDraw 2018\msvcr110_clr0400.dll
+File Copy: C:\SmartDraw 2018\msvcr110d.dll
+File Copy: C:\SmartDraw 2018\vcomp110.dll
+File Copy: C:\SmartDraw 2018\ExcelDataReader.DataSet.dll
+File Copy: C:\SmartDraw 2018\ExcelDataReader.dll
+File Copy: C:\SmartDraw 2018\PdfSharp.dll
+File Copy: C:\SmartDraw 2018\VisioDefault.vsdx
+File Copy: C:\SmartDraw 2018\ReleaseSP4\Microsoft.SharePoint.Client.dll
+File Copy: C:\SmartDraw 2018\ReleaseSP4\Microsoft.SharePoint.Client.Runtime.dll
+File Copy: C:\SmartDraw 2018\ReleaseSP35\Microsoft.SharePoint.Client.dll
+File Copy: C:\SmartDraw 2018\ReleaseSP35\Microsoft.SharePoint.Client.Runtime.dll
+File Copy: C:\SmartDraw 2018\SmartDraw.exe.config
+File Copy: C:\SmartDraw 2018\SmartDraw4.exe.config
+File Copy: C:\SmartDraw 2018\SmartDraw35.exe.config
+File Copy: C:\SmartDraw 2018\Microsoft.mshtml.dll
+File Copy: C:\SmartDraw 2018\SDCloud.dll
+File Copy: C:\SmartDraw 2018\SDCloudClient.dll
+File Copy: C:\SmartDraw 2018\SDCloudMgd.dll
+File Copy: C:\SmartDraw 2018\SDCloudProperties.dll
+File Copy: C:\SmartDraw 2018\sdcode.dll
+File Copy: C:\SmartDraw 2018\SDSharePointFC.dll
+File Copy: C:\SmartDraw 2018\SDSharePointFCMGD.dll
+File Copy: C:\SmartDraw 2018\SDVisio.dll
+File Copy: C:\SmartDraw 2018\SDWinDialogs.dll
+File Copy: C:\SmartDraw 2018\Survey.exe
+File Copy: C:\SmartDraw 2018\SmartDraw.Framework.Visio.dll
+File Copy: C:\SmartDraw 2018\MarkedUpWrapperNET40.dll
+File Copy: C:\SmartDraw 2018\MarkedUp (NET35).dll
+File Copy: C:\SmartDraw 2018\MarkedUp (NET40).dll
+File Copy: C:\SmartDraw 2018\MarkedUp.Win32.dll
+File Copy: C:\SmartDraw 2018\MarkedUpWrapperNET35.dll
+File Copy: C:\SmartDraw 2018\System.Threading.dll
+File Copy: C:\SmartDraw 2018\SD_Templates.exe
+File Copy: C:\SmartDraw 2018\SDAutoUpdate.exe
+File Copy: C:\SmartDraw 2018\SDAutoUpdateDownload.log
+File Copy: C:\SmartDraw 2018\SDAutoUpdateDL.exe
+File Copy: C:\SmartDraw 2018\Shortcut.exe
+File Copy: C:\SmartDraw 2018\SDAutoUpdateEX.exe
+File Copy: C:\SmartDraw 2018\Interop.REMOTEPROXY6432Lib.dll
+File Copy: C:\SmartDraw 2018\SDOUninstall.exe
+File Copy: C:\SmartDraw 2018\sd_caspol.exe
+File Copy: C:\SmartDraw 2018\Microsoft.Office.Interop.Visio.dll
+File Copy: C:\SmartDraw 2018\dsoframer.exe
+File Copy: C:\SmartDraw 2018\dsoframer.ocx
+File Copy: C:\SmartDraw 2018\GLU32.DLL
+File Copy: C:\SmartDraw 2018\GLUT32.DLL
+File Copy: C:\SmartDraw 2018\ipworks5.dll
+File Copy: C:\SmartDraw 2018\LTDIS13n.dll
+File Copy: C:\SmartDraw 2018\log4net.dll
+File Copy: C:\SmartDraw 2018\Microsoft.Http.dll
+File Copy: C:\SmartDraw 2018\Microsoft.Http.Extensions.dll
+File Copy: C:\SmartDraw 2018\SDTSFramework.dll
+File Copy: C:\SmartDraw 2018\SDTSProperties.dll
+File Copy: C:\SmartDraw 2018\SmartDraw.Framework.Common.dll
+File Copy: C:\SmartDraw 2018\SmartDraw.Framework.PortalVB.dll
+File Copy: C:\SmartDraw 2018\SmartDraw.Framework.Public.dll
+File Copy: C:\SmartDraw 2018\ltefx13n.dll
+File Copy: C:\SmartDraw 2018\ltfil13n.DLL
+File Copy: C:\SmartDraw 2018\ltimg13n.dll
+File Copy: C:\SmartDraw 2018\ltkrn13n.dll
+File Copy: C:\SmartDraw 2018\Microsoft.Office.Interop.MSProject.dll
+File Copy: C:\SmartDraw 2018\OPENGL32.DLL
+File Copy: C:\SmartDraw 2018\OSMESA32.DLL
+File Copy: C:\SmartDraw 2018\PDC.dll
+File Copy: C:\SmartDraw 2018\PDC.exe
+File Copy: C:\SmartDraw 2018\mfc90.dll
+File Copy: C:\SmartDraw 2018\mfc90u.dll
+File Copy: C:\SmartDraw 2018\mfcm90.dll
+File Copy: C:\SmartDraw 2018\mfcm90u.dll
+File Copy: C:\SmartDraw 2018\Microsoft.VC90.MFC.manifest
+File Copy: C:\SmartDraw 2018\PDV.dll
+File Copy: C:\SmartDraw 2018\NDde.dll
+File Copy: C:\SmartDraw 2018\SDC.DLL
+File Copy: C:\SmartDraw 2018\SDData.dll
+File Copy: C:\SmartDraw 2018\SDExcelImport.dll
+File Copy: C:\SmartDraw 2018\SDG.dll
+File Copy: C:\SmartDraw 2018\SDHelp.exe
+File Copy: C:\SmartDraw 2018\SDImport.dll
+File Copy: C:\SmartDraw 2018\SDImportMgd.dll
+File Copy: C:\SmartDraw 2018\Interop.Accessibility.dll
+File Copy: C:\SmartDraw 2018\Interop.SHDocVw.dll
+File Copy: C:\SmartDraw 2018\novapk.exe
+File Copy: C:\SmartDraw 2018\vssver.scc
+File Copy: C:\SmartDraw 2018\SDIT.dll
+File Copy: C:\SmartDraw 2018\SDPB.dll
+File Copy: C:\SmartDraw 2018\SDUI.dll
+File Copy: C:\SmartDraw 2018\SDT.dll
+File Copy: C:\SmartDraw 2018\SDW.dll
+File Copy: C:\SmartDraw 2018\SmartDraw.exe
+File Copy: C:\SmartDraw 2018\SDDL.exe
+File Copy: C:\SmartDraw 2018\SmartDrawNet.exe
+File Copy: C:\SmartDraw 2018\SSCE5332.dll
+File Copy: C:\SmartDraw 2018\UNWISE32.EXE
+File Copy: C:\SmartDraw 2018\UNWISE.EXE
+File Copy: C:\SmartDraw 2018\SDX.DLL
+File Copy: C:\SmartDraw 2018\SDL.DLX
+File Copy: C:\SmartDraw 2018\SDX.DLX
+File Copy: C:\Users\saish\AppData\Local\VirtualStore\Program Files\SmartDraw 2012\SDL.DLX
+File Copy: C:\Users\saish\AppData\Local\VirtualStore\Program Files (x86)\SmartDraw 2012\SDL.DLX
+File Copy: C:\Users\saish\AppData\Roaming\SmartDraw\SDL.DLX
+File Copy: C:\Users\saish\AppData\Roaming\SmartDraw\2014\SDL.DLX
+File Copy: C:\SmartDraw 2018\SDLIB.DLL
+File Copy: C:\SmartDraw 2018\HubKey.Web.Services.SharePoint.dll
+File Copy: C:\SmartDraw 2018\SDSharePoint.dll
+File Copy: C:\SmartDraw 2018\SDSharePointMgd.dll
+File Copy: C:\SmartDraw 2018\Microsoft.SharePoint.Client.dll
+File Copy: C:\SmartDraw 2018\Microsoft.SharePoint.Client.Runtime.dll
+File Copy: C:\SmartDraw 2018\SDThumbnail.dll
+File Copy: C:\SmartDraw 2018\SDVisioFilter.DLL
+File Copy: C:\SmartDraw 2018\SmartDrawIFilter.dll
+File Copy: C:\SmartDraw 2018\ssocli.dll
+File Copy: C:\SmartDraw 2018\License.txt
+File Tree: C:\SmartDraw 2018\MarkedUp\*.*
+File Tree: C:\SmartDraw 2018\Library\*.*
+File Tree: C:\SmartDraw 2018\Templates\*.*
+File Tree: C:\SmartDraw 2018\Messages\*.*
+File Tree: C:\SmartDraw 2018\Ribbons\*.*
+File Tree: C:\SmartDraw 2018\Help\*.*
+File Tree: C:\SmartDraw 2018\SmartHelp\*.*
+File Tree: C:\SmartDraw 2018\Tooltips\*.*
+File Tree: C:\SmartDraw 2018\Trial\*.*
+File Tree: C:\SmartDraw 2018\Filters\*.*
+File Tree: C:\SmartDraw 2018\Spelling\*.*
+File Tree: C:\SmartDraw 2018\Presentation Templates\*.*
+File Copy: C:\SmartDraw 2018\SmartDraw User's Guide.pdf
+File Copy: C:\SmartDraw 2018\License.txt
+File Copy: C:\SmartDraw 2018\SDValidationLog.txt
+RegDB Val: 19PFM7
+RegDB Root: 1
+File Copy: C:\SmartDraw 2018\Program.exe | 08-22-2018 | 14:22:00 | 15.14.0.0 | 14252049 | 1cd21557
+File Copy: C:\SmartDraw 2018\Filters.exe | 08-10-2017 | 10:07:36 | 15.14.0.0 | 1043600 | e479f219
+Made Dir: C:\SmartDraw 2018\Presentation Templates
+File Copy: C:\SmartDraw 2018\Presentation Templates\Normal.pot | 01-20-2017 | 12:23:02 | | 98816 | 53e13882
+File Copy: C:\SmartDraw 2018\Presentation Templates\Normal-{5C4DB9EA-8975-4968-9E93-9C7CEE286E40}.zip | 01-20-2017 | 12:23:02 | | 1350 | cc962a7c
+File Copy: C:\SmartDraw 2018\Ribbons.exe | 05-21-2018 | 10:18:32 | 15.14.0.0 | 395309 | 3198e119
+Made Dir: C:\SmartDraw 2018\Spelling
+File Copy: C:\SmartDraw 2018\Spelling\accent.tlx | 01-20-2017 | 12:23:16 | | 2338 | bbc40a41
+File Copy: C:\SmartDraw 2018\Spelling\correct.tlx | 01-20-2017 | 12:23:16 | | 21529 | 5051a71d
+File Copy: C:\SmartDraw 2018\Spelling\Html.tlx | 01-20-2017 | 12:23:16 | | 1047 | d6cded5c
+File Copy: C:\SmartDraw 2018\Spelling\Spelling.cnt | 01-20-2017 | 12:23:16 | | 228 | cec72485
+File Copy: C:\SmartDraw 2018\Spelling\SPELLING.HLP | 01-20-2017 | 12:23:16 | | 154684 | 3fd35271
+File Copy: C:\SmartDraw 2018\Spelling\tech.tlx | 01-20-2017 | 12:23:16 | | 2143 | 9bda1932
+File Copy: C:\SmartDraw 2018\Spelling\userdic.tlx | 01-20-2017 | 12:23:16 | | 47735 | c93737ce
+Made Dir: C:\SmartDraw 2018\Spelling\American English
+File Copy: C:\SmartDraw 2018\Spelling\American English\Ssceam.tlx | 01-20-2017 | 12:23:16 | | 7965 | b5e39de3
+File Copy: C:\SmartDraw 2018\Spelling\American English\ssceam2.clx | 01-20-2017 | 12:23:16 | | 327608 | 102b3d41
+Made Dir: C:\SmartDraw 2018\Spelling\British English
+File Copy: C:\SmartDraw 2018\Spelling\British English\Sscebr.tlx | 01-20-2017 | 12:23:16 | | 7810 | 7cbbaedf
+File Copy: C:\SmartDraw 2018\Spelling\British English\sscebr2.clx | 01-20-2017 | 12:23:16 | | 330075 | 85fd688
+File Copy: C:\SmartDraw 2018\Tooltips.exe | 05-21-2018 | 10:18:40 | 15.14.0.0 | 517761 | c3268ae1
+Made Dir: C:\SmartDraw 2018\Trial
+File Copy: C:\SmartDraw 2018\Trial\TrialDay_1.htm | 01-20-2017 | 12:24:58 | | 1148 | 5af1a3ed
+File Copy: C:\SmartDraw 2018\Trial\TrialDay_2.htm | 01-20-2017 | 12:24:58 | | 1148 | 2e2f4cc8
+File Copy: C:\SmartDraw 2018\Trial\TrialDay_3.htm | 01-20-2017 | 12:24:58 | | 1148 | b34c7da7
+File Copy: C:\SmartDraw 2018\Trial\TrialDay_4.htm | 01-20-2017 | 12:24:58 | | 1148 | c7929282
+File Copy: C:\SmartDraw 2018\Trial\TrialDay_5.htm | 01-20-2017 | 12:24:58 | | 1148 | 52fb1938
+File Copy: C:\SmartDraw 2018\Trial\TrialDay_6.htm | 01-20-2017 | 12:24:58 | | 1148 | 2625f61d
+File Copy: C:\SmartDraw 2018\Trial\TrialDay_7.htm | 01-20-2017 | 12:24:58 | | 1147 | 6cd9a52c
+File Copy: C:\SmartDraw 2018\Trial\TrialDay_8.htm | 01-20-2017 | 12:24:58 | | 1396 | 93eb182d
+File Copy: C:\SmartDraw 2018\Trial\TrialUse_2.htm | 01-20-2017 | 12:24:58 | | 1148 | 560069ef
+File Copy: C:\SmartDraw 2018\Trial\TrialUse_3.htm | 01-20-2017 | 12:24:58 | | 1148 | c369e255
+File Copy: C:\SmartDraw 2018\Trial\TrialUse_4.htm | 01-20-2017 | 12:24:58 | | 1148 | b7b70d70
+File Copy: C:\SmartDraw 2018\Trial\TrialUse_5.htm | 01-20-2017 | 12:24:58 | | 1147 | 24149236
+File Copy: C:\SmartDraw 2018\Trial\TrialUse_6.htm | 01-20-2017 | 12:24:58 | | 1223 | bfe06043
+Made Dir: C:\SmartDraw 2018\Trial\css
+File Copy: C:\SmartDraw 2018\Trial\css\style.css | 01-20-2017 | 12:24:58 | | 1367 | 2a762111
+Made Dir: C:\SmartDraw 2018\Trial\images
+File Copy: C:\SmartDraw 2018\Trial\images\1day.png | 01-20-2017 | 12:24:58 | | 3638 | c21a83a7
+File Copy: C:\SmartDraw 2018\Trial\images\1run.png | 01-20-2017 | 12:24:58 | | 5208 | c9432b9d
+File Copy: C:\SmartDraw 2018\Trial\images\2days.png | 01-20-2017 | 12:24:58 | | 3871 | 7c29500
+File Copy: C:\SmartDraw 2018\Trial\images\2runs.png | 01-20-2017 | 12:24:58 | | 5534 | b6bd70b1
+File Copy: C:\SmartDraw 2018\Trial\images\3days.png | 01-20-2017 | 12:24:58 | | 3919 | 3c150486
+File Copy: C:\SmartDraw 2018\Trial\images\3runs.png | 01-20-2017 | 12:24:58 | | 5576 | 4531e4c6
+File Copy: C:\SmartDraw 2018\Trial\images\4days.png | 01-20-2017 | 12:24:58 | | 3858 | 771da060
+File Copy: C:\SmartDraw 2018\Trial\images\4runs.png | 01-20-2017 | 12:24:58 | | 5563 | 6177e5f5
+File Copy: C:\SmartDraw 2018\Trial\images\5days.png | 01-20-2017 | 12:24:58 | | 3860 | d2f6175c
+File Copy: C:\SmartDraw 2018\Trial\images\6days.png | 01-20-2017 | 12:24:58 | | 3904 | 5abaf5a2
+File Copy: C:\SmartDraw 2018\Trial\images\7days.png | 01-20-2017 | 12:24:58 | | 3833 | d6ba58e8
+File Copy: C:\SmartDraw 2018\Trial\images\ButtonActivate.png | 01-20-2017 | 12:24:58 | | 2876 | 9d1e6b1b
+File Copy: C:\SmartDraw 2018\Trial\images\ButtonBuyNow.png | 01-20-2017 | 12:24:58 | | 2565 | 58807d9c
+File Copy: C:\SmartDraw 2018\Trial\images\ButtonContinue.png | 01-20-2017 | 12:24:58 | | 2441 | e6605947
+File Copy: C:\SmartDraw 2018\Trial\images\ButtonExtend.png | 01-20-2017 | 12:24:58 | | 2811 | e2421745
+File Copy: C:\SmartDraw 2018\Trial\images\ButtonPurchase.png | 01-20-2017 | 12:24:58 | | 3081 | 5e40b464
+File Copy: C:\SmartDraw 2018\Trial\images\TrialDay_expired_top.png | 01-20-2017 | 12:25:00 | | 53483 | b91bdadb
+File Copy: C:\SmartDraw 2018\Trial\images\TrialDay_nonexpired_top.png | 01-20-2017 | 12:25:00 | | 63523 | 879445f1
+File Copy: C:\SmartDraw 2018\TrialContent.exe | 02-20-2018 | 15:51:14 | 15.14.0.0 | 5538869 | 9278aac2
+Made Dir: C:\SmartDraw 2018\Templates\Categories
+File Copy: C:\SmartDraw 2018\Templates\Categories\CAD.STC | 12-20-2017 | 09:26:34 | | 2047 | 302d9e21
+File Copy: C:\SmartDraw 2018\Templates\Categories\Cause & Effect.STC | 09-06-2017 | 12:05:58 | | 961 | 2fb6a2de
+File Copy: C:\SmartDraw 2018\Templates\Categories\Certificates.STC | 09-06-2017 | 12:05:58 | | 7876 | debd6006
+File Copy: C:\SmartDraw 2018\Templates\Categories\Charts & Graphs.STC | 09-06-2017 | 12:05:58 | | 4402 | fe6e1270
+File Copy: C:\SmartDraw 2018\Templates\Categories\CompoundWords.txt
+File Copy: C:\SmartDraw 2018\Templates\Categories\Decision Trees.STC | 09-06-2017 | 12:05:58 | | 442 | 593de9da
+File Copy: C:\SmartDraw 2018\Templates\Categories\Emergency & Disaster Planning.STC | 09-06-2017 | 12:05:58 | | 18584 | 7d6ee789
+File Copy: C:\SmartDraw 2018\Templates\Categories\Engineering & Schematics.STC | 01-05-2018 | 11:23:26 | | 12479 | 5480a95b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Family Trees.STC | 09-06-2017 | 12:05:58 | | 944 | 3b9c9e26
+File Copy: C:\SmartDraw 2018\Templates\Categories\Floor Plans - Commercial.STC | 01-05-2018 | 11:23:26 | | 21974 | b189520
+File Copy: C:\SmartDraw 2018\Templates\Categories\Floor Plans - Residential.STC | 09-06-2017 | 12:05:58 | | 22952 | 52023481
+File Copy: C:\SmartDraw 2018\Templates\Categories\Flowcharts.STC | 09-06-2017 | 12:05:58 | | 8657 | ed35f8ac
+File Copy: C:\SmartDraw 2018\Templates\Categories\Flyers.STC | 01-31-2018 | 10:01:54 | | 20767 | fcf6756b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Forms & Documentation.STC | 09-06-2017 | 12:05:58 | | 26121 | 74b62d38
+File Copy: C:\SmartDraw 2018\Templates\Categories\Home.STC | 05-21-2018 | 10:16:52 | | 1606 | 1ac59139
+File Copy: C:\SmartDraw 2018\Templates\Categories\Home_BCI.STC | 05-21-2018 | 10:16:52 | | 1283 | 50784574
+File Copy: C:\SmartDraw 2018\Templates\Categories\Home_P.STC | 05-21-2018 | 10:16:52 | | 1055 | b048b69b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Infographics.STC | 01-31-2018 | 10:01:54 | | 66826 | a3808254
+File Copy: C:\SmartDraw 2018\Templates\Categories\Interior Design.STC | 09-06-2017 | 12:05:58 | | 2018 | c4b3094e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Landscape Design.STC | 09-06-2017 | 12:05:58 | | 4460 | c77f1175
+File Copy: C:\SmartDraw 2018\Templates\Categories\Lean.STC | 09-06-2017 | 12:05:58 | | 4636 | 43e75d3e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Legal.STC | 09-06-2017 | 12:05:58 | | 45079 | 9571eb8d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Maps & Geography.STC | 09-06-2017 | 12:05:58 | | 29874 | 2d63db5f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Marketing Charts.STC | 09-06-2017 | 12:05:58 | | 10614 | ab4a6839
+File Copy: C:\SmartDraw 2018\Templates\Categories\Mind Maps.STC | 04-13-2018 | 11:30:04 | | 2261 | fbbeceae
+File Copy: C:\SmartDraw 2018\Templates\Categories\Mind Maps_BCI.STC | 04-13-2018 | 11:30:04 | | 2261 | fbbeceae
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Calendars.STC | 09-06-2017 | 12:05:58 | | 15372 | 28db3a37
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Education.STC | 09-06-2017 | 12:05:58 | | 19853 | bb3c745f
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Anatomy Illustrations.STC | 09-06-2017 | 12:05:58 | | 44375 | a633e0b6
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Anatomy Worksheets.STC | 09-06-2017 | 12:05:58 | | 18052 | 946ee32c
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Cancer.STC | 09-06-2017 | 12:05:58 | | 6893 | 476c45e6
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Cardiology.STC | 09-06-2017 | 12:05:58 | | 11341 | 18b20f0d
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Dentistry.STC | 09-06-2017 | 12:05:58 | | 8615 | 4f1c551e
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Diabetes.STC | 09-06-2017 | 12:05:58 | | 4811 | 9d7f37d0
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Diseases.STC | 09-06-2017 | 12:05:58 | | 10709 | cfdb3b5a
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Disorders.STC | 09-06-2017 | 12:05:58 | | 14345 | a45c09ec
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Health & Fitness.STC | 09-06-2017 | 12:05:58 | | 6338 | 3fa9d70d
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Injury Report.STC | 09-06-2017 | 12:05:58 | | 1994 | 98a77d28
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Intensive Outpatient.STC | 09-06-2017 | 12:05:58 | | 5716 | ca41665f
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Medical Examination.STC | 09-06-2017 | 12:05:58 | | 3569 | aff27eca
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Medical Processes & Procedures.STC | 09-06-2017 | 12:05:58 | | 17047 | 5e8af80c
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Neurology.STC | 09-06-2017 | 12:05:58 | | 15190 | 4c421703
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-OB-GYN.STC | 09-06-2017 | 12:05:58 | | 12970 | 3b0da47e
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Orthopedics.STC | 09-06-2017 | 12:05:58 | | 7540 | df468acb
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Patient Care.STC | 09-06-2017 | 12:05:58 | | 4578 | 4e0a65b7
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare-Pediatrics.STC | 09-06-2017 | 12:05:58 | | 5284 | 3e98bd33
+File Copy: C:\SmartDraw 2018\Templates\Categories\More-Healthcare.STC | 09-06-2017 | 12:05:58 | | 889 | 15cbcc2d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Network Design.STC | 09-06-2017 | 12:05:58 | | 5286 | af5c2ce2
+File Copy: C:\SmartDraw 2018\Templates\Categories\Org Charts.STC | 09-06-2017 | 12:05:58 | | 3601 | ea001015
+File Copy: C:\SmartDraw 2018\Templates\Categories\Popular.STC | 04-13-2018 | 11:30:04 | | 5748 | ad586814
+File Copy: C:\SmartDraw 2018\Templates\Categories\Popular_BCI.STC | 04-13-2018 | 11:30:04 | | 4517 | 7f81e16d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Popular_S.STC | 04-13-2018 | 11:30:04 | | 4667 | d66474cd
+File Copy: C:\SmartDraw 2018\Templates\Categories\Presentations.STC | 09-06-2017 | 12:05:58 | | 339 | 858c8440
+File Copy: C:\SmartDraw 2018\Templates\Categories\Process Documentation.STC | 09-06-2017 | 12:05:58 | | 351 | 7036428f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Project Management.STC | 06-12-2018 | 13:20:40 | | 2273 | 7bb22c68
+File Copy: C:\SmartDraw 2018\Templates\Categories\Retail & Planograms.STC | 09-06-2017 | 12:05:58 | | 6182 | 4c7de2da
+File Copy: C:\SmartDraw 2018\Templates\Categories\Roads & Freeways.STC | 09-06-2017 | 12:05:58 | | 3637 | b2cb8c5b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Signs.STC | 09-06-2017 | 12:05:58 | | 6849 | 78f88137
+File Copy: C:\SmartDraw 2018\Templates\Categories\Software Design.STC | 09-06-2017 | 12:05:58 | | 5354 | dcf67691
+File Copy: C:\SmartDraw 2018\Templates\Categories\Strategy & Planning.STC | 09-06-2017 | 12:05:58 | | 14831 | 283728c4
+File Copy: C:\SmartDraw 2018\Templates\Categories\Strategy & Planning_BCI.STC | 09-06-2017 | 12:05:58 | | 15202 | df9fb664
+File Copy: C:\SmartDraw 2018\Templates\Categories\Suggestions.txt | 09-06-2017 | 12:05:58 | | 159 | 9dbedd03
+File Copy: C:\SmartDraw 2018\Templates\Categories\Timelines.STC | 01-05-2018 | 11:23:26 | | 3382 | 4a4fe7fb
+File Copy: C:\SmartDraw 2018\Templates\Categories\Timelines_BCI.STC | 01-05-2018 | 11:23:26 | | 2927 | ef394fd4
+File Copy: C:\SmartDraw 2018\Templates\Categories\UML Diagrams.STC | 09-06-2017 | 12:05:58 | | 3921 | 86d0effb
+File Copy: C:\SmartDraw 2018\Templates\Categories\Vehicles.STC | 09-06-2017 | 12:05:58 | | 3670 | 574fca34
+File Copy: C:\SmartDraw 2018\Templates\Categories\Version.ini | 07-19-2018 | 07:51:50 | | 26 | 54d24da9
+File Copy: C:\SmartDraw 2018\Templates\Categories\Web Design.STC | 12-18-2017 | 09:57:42 | | 2963 | f0855cc0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Wireframes.STC | 02-15-2018 | 12:12:20 | | 2766 | b6fb950e
+Made Dir: C:\SmartDraw 2018\Templates\Categories\Icons
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\accidentreconstruction.png | 09-06-2017 | 12:05:58 | | 3051 | 368c38a6
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\accidentreconstruction_Small.png | 09-06-2017 | 12:05:58 | | 673 | 21faf809
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\activitynetwork.png | 09-06-2017 | 12:05:58 | | 2825 | 3545d076
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\activitynetworks.png | 09-06-2017 | 12:05:58 | | 2570 | d2eb5b52
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\activitynetwork_small.png | 09-06-2017 | 12:05:58 | | 764 | a6670d09
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\affinitydiagram.png | 09-06-2017 | 12:05:58 | | 1489 | 7c103229
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\affinitydiagrams.png | 09-06-2017 | 12:05:58 | | 1331 | f001c5de
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\affinitydiagram_small.png | 09-06-2017 | 12:05:58 | | 577 | b6679b16
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\ansoffmatrix.png | 09-06-2017 | 12:05:58 | | 2331 | d34ce36
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\ansoffmatrix_small.png | 09-06-2017 | 12:05:58 | | 636 | 2ac63f97
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\areacharts.png | 09-06-2017 | 12:05:58 | | 5988 | ef4c839d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\audit.png | 09-06-2017 | 12:05:58 | | 7171 | 353c997c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\authoritymatrix.png | 09-06-2017 | 12:05:58 | | 1600 | ca37fdc0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\authoritymatrix_small.png | 09-06-2017 | 12:05:58 | | 637 | 8d4a58ed
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\awardsandcertificates.png | 09-06-2017 | 12:05:58 | | 3297 | 83f60806
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\awardsandcertificates_small.png | 09-06-2017 | 12:05:58 | | 656 | cd97f088
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\balancedscorecard.png | 09-06-2017 | 12:05:58 | | 2450 | 15ff5e64
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\balancedscorecard_small.png | 09-06-2017 | 12:05:58 | | 678 | 8c917f3e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\balancescorecard.png | 09-06-2017 | 12:05:58 | | 9829 | cc76912b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\barcharts.png | 09-06-2017 | 12:05:58 | | 1050 | 406e9a72
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\barcharts_Small.png | 09-06-2017 | 12:05:58 | | 471 | 932e4057
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\bcgmatrix.png | 09-06-2017 | 12:05:58 | | 9958 | edd33a2d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\brandessencewheel.png | 09-06-2017 | 12:05:58 | | 3571 | 5e4224e9
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\brandessencewheel_small.png | 09-06-2017 | 12:05:58 | | 690 | 36b625f9
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\businessprocessmap.png | 09-06-2017 | 12:05:58 | | 2805 | fa757656
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\businessprocessmapping.png | 09-06-2017 | 12:05:58 | | 2599 | dff1cd6c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\businessprocessmapping_small.png | 09-06-2017 | 12:05:58 | | 774 | 20a54c7c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\businessprocessmap_small.png | 09-06-2017 | 12:05:58 | | 643 | 7ca9100c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\business_small.png | 09-06-2017 | 12:05:58 | | 1018 | d0ac162e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\CAD.png | 09-06-2017 | 12:05:58 | | 3409 | 23b2bc42
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\CAD_small.png | 09-06-2017 | 12:05:58 | | 1369 | ef77a7c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\calendars.png | 09-06-2017 | 12:05:58 | | 1774 | da5f3c53
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Calendars_Small.png | 09-06-2017 | 12:05:58 | | 534 | 2d5e2ac
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\causeandeffectdiagrams.png | 09-06-2017 | 12:05:58 | | 3157 | 68eceeb4
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\causeandeffectdiagrams_Small.png | 09-06-2017 | 12:05:58 | | 675 | 50269647
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\certificates.png | 09-06-2017 | 12:05:58 | | 2923 | 5d000495
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\certificates_small.png | 09-06-2017 | 12:05:58 | | 783 | d7174644
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\chartsandgraphs.png | 09-06-2017 | 12:05:58 | | 1153 | ed72bd8
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\chartsandgraphs_small.png | 09-06-2017 | 12:05:58 | | 436 | f5b4c42f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\circlediagram.png | 09-06-2017 | 12:05:58 | | 4404 | b11c714a
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\circlediagram_small.png | 09-06-2017 | 12:05:58 | | 799 | 3ee35bd0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\circlespokediagram.png | 09-06-2017 | 12:05:58 | | 2609 | 5d6c67b5
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\circlespokediagram_small.png | 09-06-2017 | 12:05:58 | | 614 | d29da1fa
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\competitiveanalysis.png | 09-06-2017 | 12:05:58 | | 1639 | 603c896a
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\competitiveanalysis_small.png | 09-06-2017 | 12:05:58 | | 631 | 7cb78766
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\crimescene.png | 09-06-2017 | 12:05:58 | | 6152 | 9477d4ea
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\crimescene_small.png | 09-06-2017 | 12:05:58 | | 795 | adeee377
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Criminaljustice_small.png | 09-06-2017 | 12:05:58 | | 1084 | c356c9b6
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\cyclediagram.png | 09-06-2017 | 12:05:58 | | 3959 | 91675df6
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\dataflow.png | 09-06-2017 | 12:05:58 | | 1901 | e2c6bb03
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\dataflowdiagram.png | 09-06-2017 | 12:05:58 | | 2091 | 1bac362c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\dataflowdiagram_small.png | 09-06-2017 | 12:05:58 | | 529 | b672c2e2
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\dataflow_small.png | 09-06-2017 | 12:05:58 | | 586 | 6289fa89
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\datamaps.png | 09-06-2017 | 12:05:58 | | 3923 | cd4c77a5
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\datamaps_small.png | 09-06-2017 | 12:05:58 | | 734 | e3e52cf8
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\decisiontree.png | 09-06-2017 | 12:05:58 | | 2794 | a2ab2399
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\decisiontrees.png | 09-06-2017 | 12:05:58 | | 2592 | 13369af4
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\decisiontrees_Small.png | 09-06-2017 | 12:05:58 | | 765 | 321d504d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\decisiontree_small.png | 09-06-2017 | 12:05:58 | | 636 | 7dc18230
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\diagramring.png | 09-06-2017 | 12:05:58 | | 3616 | 688dce0c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\diagramring_small.png | 09-06-2017 | 12:05:58 | | 670 | aac4a98e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\din66001.png | 09-06-2017 | 12:05:58 | | 3067 | a1bdccbd
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\din66001_small.png | 09-06-2017 | 12:05:58 | | 754 | f6aa59a7
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\donutdiagram.png | 09-06-2017 | 12:05:58 | | 2984 | 271d0a4f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\donutdiagram_small.png | 09-06-2017 | 12:05:58 | | 667 | bccd3fab
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\dropbox_small.png | 09-06-2017 | 12:05:58 | | 387 | 68ccef2a
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\ecomap.png | 09-06-2017 | 12:05:58 | | 4488 | a6ccf831
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\ecomap_small.png | 09-06-2017 | 12:05:58 | | 788 | 7ce9ea2d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Education_small.png | 09-06-2017 | 12:05:58 | | 2334 | bafc6bce
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\elevations.png | 09-06-2017 | 12:05:58 | | 9506 | 6753bf6e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\emergency.png | 09-06-2017 | 12:05:58 | | 2736 | ae67bf92
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\emergency_small.png | 09-06-2017 | 12:05:58 | | 687 | 154b9a8f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\engineering.png | 09-06-2017 | 12:05:58 | | 2815 | c0d65da4
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\engineeringandcad.png | 09-06-2017 | 12:05:58 | | 3076 | d9fb667a
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\engineeringandcad_small.png | 09-06-2017 | 12:05:58 | | 598 | 28a52f70
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\engineering_Small.png | 09-06-2017 | 12:05:58 | | 716 | 3012abb5
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\entityrelationship.png | 09-06-2017 | 12:05:58 | | 2782 | a557c945
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\entityrelationshipdiagram.png | 09-06-2017 | 12:05:58 | | 3116 | a5f41e35
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\entityrelationshipdiagram_small.png | 09-06-2017 | 12:05:58 | | 681 | ee0f0821
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\epc.png | 09-06-2017 | 12:05:58 | | 6970 | c6a75a90
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\EstatePlanning_small.png | 09-06-2017 | 12:05:58 | | 781 | f63ff94c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\familytree.png | 09-06-2017 | 12:05:58 | | 1672 | e868a37b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\familytree_small.png | 09-06-2017 | 12:05:58 | | 692 | d59316e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\faulttree.png | 09-06-2017 | 12:05:58 | | 2410 | 4d2c88f0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\faulttree_small.png | 09-06-2017 | 12:05:58 | | 557 | 54532078
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\fiveforcesanalysis.png | 09-06-2017 | 12:05:58 | | 1794 | 8d0b18e4
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\fiveforcesanalysis_small.png | 09-06-2017 | 12:05:58 | | 587 | e2c70595
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\floorplans.png | 09-06-2017 | 12:05:58 | | 2419 | e0589278
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\floorplanscommercial.png | 09-06-2017 | 12:05:58 | | 2479 | 2bf59cef
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\floorplanscommercial_small.png | 09-06-2017 | 12:05:58 | | 715 | 4904f38c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\floorplansresidential.png | 09-06-2017 | 12:05:58 | | 2524 | ef8987ed
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\floorplansresidential_small.png | 09-06-2017 | 12:05:58 | | 705 | 92076345
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\floorplans_Small.png | 09-06-2017 | 12:05:58 | | 776 | c3082f23
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flowchart.png | 09-06-2017 | 12:05:58 | | 1788 | 7d37ff52
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flowchartaudit.png | 09-06-2017 | 12:05:58 | | 2691 | 42fa5143
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flowchartaudit_small.png | 09-06-2017 | 12:05:58 | | 617 | 614ccf50
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flowchartdiagrams.png | 09-06-2017 | 12:05:58 | | 7216 | 391340c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flowchartdiagrams_Small.png | 09-06-2017 | 12:05:58 | | 638 | 76556381
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flowchartdin66001.png | 09-06-2017 | 12:05:58 | | 3407 | 1a55493f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flowchartdin66001_small.png | 09-06-2017 | 12:05:58 | | 635 | b0528383
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flowchartepc.png | 09-06-2017 | 12:05:58 | | 2387 | 66ed734d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flowchartepc_small.png | 09-06-2017 | 12:05:58 | | 581 | 9353990d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flowchartsdl.png | 09-06-2017 | 12:05:58 | | 2406 | db5c86e5
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flowchartsdl_small.png | 09-06-2017 | 12:05:58 | | 583 | 9f72587f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flowchart_small.png | 09-06-2017 | 12:05:58 | | 553 | d9490871
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flyers.png | 09-06-2017 | 12:05:58 | | 1547 | d613a495
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\flyers_Small.png | 09-06-2017 | 12:05:58 | | 568 | 15973a36
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\forcefieldanalysis.png | 09-06-2017 | 12:05:58 | | 2588 | 83decf5d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\forcefieldanalysis_small.png | 09-06-2017 | 12:05:58 | | 678 | a2ba6194
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\forms.png | 09-06-2017 | 12:05:58 | | 1266 | 907275c5
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\forms_Small.png | 09-06-2017 | 12:05:58 | | 449 | f1e776eb
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\funnelchart.png | 09-06-2017 | 12:05:58 | | 2870 | b6053fc0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\funnelcharts.png | 09-06-2017 | 12:05:58 | | 2635 | 706403c3
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\funnelchart_small.png | 09-06-2017 | 12:05:58 | | 612 | 573b8e95
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\funneldiagram.png | 09-06-2017 | 12:05:58 | | 9700 | 3ba99fc
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\gantt-chart.png | 09-06-2017 | 12:05:58 | | 1310 | dc06edd1
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\gantt-chart_small.png | 09-06-2017 | 12:05:58 | | 557 | f50f93a5
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\ganttcharts.png | 09-06-2017 | 12:05:58 | | 1201 | 782b91fd
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\ganttcharts_Small.png | 09-06-2017 | 12:05:58 | | 620 | 6bcd3497
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\genogram.png | 09-06-2017 | 12:05:58 | | 2184 | ad93f42e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\genogram_small.png | 09-06-2017 | 12:05:58 | | 644 | 67e09fb0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\goalsgrid.png | 09-06-2017 | 12:05:58 | | 1337 | 817675c4
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\goalsgrid_small.png | 09-06-2017 | 12:05:58 | | 557 | f14ac197
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\googledrive.png | 09-06-2017 | 12:05:58 | | 3034 | 508254ef
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\googledrive_small.png | 09-06-2017 | 12:05:58 | | 639 | aea6373e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\google_drive_18x18.png | 09-06-2017 | 12:05:58 | | 534 | b0e3e60d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\growthsharematrix.png | 09-06-2017 | 12:05:58 | | 1250 | e6a66464
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\growthsharematrix_small.png | 09-06-2017 | 12:05:58 | | 464 | 3d620fa0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\healthcare.png | 09-06-2017 | 12:05:58 | | 1123 | 57060952
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Healthcare_small.png | 09-06-2017 | 12:05:58 | | 476 | 90018112
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Health_small.png | 09-06-2017 | 12:05:58 | | 2044 | 8a4304a4
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\home.png | 09-06-2017 | 12:05:58 | | 4273 | bb0ddf80
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\horizontalswimlanes.png | 09-06-2017 | 12:05:58 | | 1984 | b344136e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\horizontalswimlanes_small.png | 09-06-2017 | 12:05:58 | | 643 | b5603e71
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\hr_small.png | 09-06-2017 | 12:05:58 | | 887 | 9c0500b2
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\hubs.png | 09-06-2017 | 12:05:58 | | 1450 | 4fed9bad
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\hubs_small.png | 09-06-2017 | 12:05:58 | | 644 | b26e410b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Import16_small.png | 09-06-2017 | 12:05:58 | | 236 | 34279bc0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\influencediagram.png | 09-06-2017 | 12:05:58 | | 1946 | f78fafa6
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\influencediagram_small.png | 09-06-2017 | 12:05:58 | | 532 | aa957e7f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\infographics.png | 09-06-2017 | 12:05:58 | | 1407 | fc42c87a
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Infographics_small.png | 09-06-2017 | 12:05:58 | | 443 | af0f858d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\interrelationshipdiagram.png | 09-06-2017 | 12:06:00 | | 2970 | f54e98b8
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\interrelationshipdiagram_small.png | 09-06-2017 | 12:06:00 | | 624 | 79c1511b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\kanban.png | 09-06-2017 | 12:06:00 | | 6133 | 54a0b0b9
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\kanbanboard.png | 09-06-2017 | 12:06:00 | | 1647 | 2679e5ef
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\kanbanboard_small.png | 09-06-2017 | 12:06:00 | | 649 | 7e9cb793
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\kanban_icon.png | 09-06-2017 | 12:06:00 | | 6133 | 54a0b0b9
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\kanban_icon_small.png | 09-06-2017 | 12:06:00 | | 1849 | 4c629b5
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\kanban_small.png | 09-06-2017 | 12:06:00 | | 1849 | 4c629b5
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\landscapedesign.png | 09-06-2017 | 12:06:00 | | 3777 | 3a6e4a1b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\landscapedesign_small.png | 09-06-2017 | 12:06:00 | | 783 | 597654ba
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\ldapdiagram.png | 09-06-2017 | 12:06:00 | | 1713 | b7b72e70
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\ldapdiagrams.png | 09-06-2017 | 12:06:00 | | 9508 | 2ced4106
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\ldapdiagram_small.png | 09-06-2017 | 12:06:00 | | 701 | a8887fab
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\lean.png | 09-06-2017 | 12:06:00 | | 1647 | 2679e5ef
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\lean_small.png | 09-06-2017 | 12:06:00 | | 649 | 7e9cb793
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\legalandgovernment.png | 09-06-2017 | 12:06:00 | | 2724 | d83d0db3
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\legalandgovernment_small.png | 09-06-2017 | 12:06:00 | | 679 | eb3c5a0b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\legal_small.png | 09-06-2017 | 12:06:00 | | 2195 | 7ea7628c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\logo_sd15.png | 09-06-2017 | 12:06:00 | | 741 | 1abeb2d3
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\manualdiagram.png | 09-06-2017 | 12:06:00 | | 1880 | 3aca97fd
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\manualdiagram_small.png | 09-06-2017 | 12:06:00 | | 459 | 9ee59930
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\maps.png | 09-06-2017 | 12:06:00 | | 3993 | 20b2cf2d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\mapsinternet.png | 09-06-2017 | 12:06:00 | | 6635 | 5729fdea
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\maps_Small.png | 09-06-2017 | 12:06:00 | | 735 | da92a93f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\marketingcharts.png | 09-06-2017 | 12:06:00 | | 1997 | b7f428fc
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\marketingcharts_small.png | 09-06-2017 | 12:06:00 | | 541 | 22e8bda4
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\marketingmix.png | 09-06-2017 | 12:06:00 | | 4582 | 4ce328e0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\marketingmix_small.png | 09-06-2017 | 12:06:00 | | 801 | 2a6d9a66
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\matrices.png | 09-06-2017 | 12:06:00 | | 1997 | b7f428fc
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\matrices_Small.png | 09-06-2017 | 12:06:00 | | 541 | 22e8bda4
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\matrixtable.png | 09-06-2017 | 12:06:00 | | 1862 | 37ea1c61
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\mechanicaldiagram.png | 09-06-2017 | 12:06:00 | | 4444 | 94f82189
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\mechanicaldiagram_small.png | 09-06-2017 | 12:06:00 | | 764 | f65be226
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\meeting.png | 09-06-2017 | 12:06:00 | | 8135 | 435ba98b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\meetingagenda.png | 09-06-2017 | 12:06:00 | | 8260 | 440a09bc
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\meetingagenda_small.png | 09-06-2017 | 12:06:00 | | 2238 | c75fb2e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\menuback.jpg | 09-06-2017 | 12:06:00 | | 25796 | d97b3ebe
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Military_small.png | 09-06-2017 | 12:06:00 | | 793 | 7100e9de
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\mindmaps.png | 09-06-2017 | 12:06:00 | | 1546 | baa586ec
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\mindmaps_Small.png | 09-06-2017 | 12:06:00 | | 574 | ab25e032
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\monthlycalendar.png | 09-06-2017 | 12:06:00 | | 5777 | 4e7767e7
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\networkdiagram-manual.png | 09-06-2017 | 12:06:00 | | 2075 | 66deaeb1
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\networkdiagram.png | 09-06-2017 | 12:06:00 | | 2740 | 803d930c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\networkdiagrams.png | 09-06-2017 | 12:06:00 | | 2507 | b8991321
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\networkdiagrams_Small.png | 09-06-2017 | 12:06:00 | | 832 | 8f620723
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\networkdiagram_small.png | 09-06-2017 | 12:06:00 | | 723 | 990a34fd
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\new.png | 09-06-2017 | 12:06:00 | | 5236 | a80405f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\one_drive_18x18.png | 09-06-2017 | 12:06:00 | | 606 | dcace78b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\one_drive_small.png | 09-06-2017 | 12:06:00 | | 260 | 9eeecc11
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\open.png | 09-06-2017 | 12:06:00 | | 4540 | cbf92a48
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\orgchart.png | 09-06-2017 | 12:06:00 | | 1323 | 5f28f263
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\orgcharts.png | 09-06-2017 | 12:06:00 | | 2287 | 573fe0f0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\orgcharts_Small.png | 09-06-2017 | 12:06:00 | | 591 | 56f3d2de
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\orgchart_small.png | 09-06-2017 | 12:06:00 | | 577 | 98c3abe6
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Paralegal_Small.png | 09-06-2017 | 12:06:00 | | 772 | ba6b7bff
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\pedigreechart.png | 09-06-2017 | 12:06:00 | | 1748 | 640c2eb2
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\pedigreechart_small.png | 09-06-2017 | 12:06:00 | | 638 | dd8747ba
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\performanceprism.png | 09-06-2017 | 12:06:00 | | 1619 | 7c05a094
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\performanceprism_small.png | 09-06-2017 | 12:06:00 | | 454 | b998a5df
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\pertchart.png | 09-06-2017 | 12:06:00 | | 2457 | e4e7f734
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\pertcharts.png | 09-06-2017 | 12:06:00 | | 2559 | 68ebc2dd
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\pertcharts_small.png | 09-06-2017 | 12:06:00 | | 631 | add66959
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\pestanalysis.png | 09-06-2017 | 12:06:00 | | 1431 | 6e2c5000
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\pestanalysis_small.png | 09-06-2017 | 12:06:00 | | 498 | 42421b2b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\planogram.png | 09-06-2017 | 12:06:00 | | 2427 | 25c306e1
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\planogram_small.png | 09-06-2017 | 12:06:00 | | 667 | a7cde6db
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\popular.png | 09-06-2017 | 12:06:00 | | 2119 | 274dc7a
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\popular_small.png | 09-06-2017 | 12:06:00 | | 493 | 5d278222
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\presentation.png | 09-06-2017 | 12:06:00 | | 5708 | 8f989fb0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\presentations.png | 09-06-2017 | 12:06:00 | | 2821 | 18c467d6
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\presentations_small.png | 09-06-2017 | 12:06:00 | | 609 | 9c35304c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\process.png | 09-06-2017 | 12:06:00 | | 4300 | 1cb15aae
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\processdocumentation.png | 09-06-2017 | 12:06:00 | | 3835 | 8b587a79
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\processdocumentation_small.png | 09-06-2017 | 12:06:00 | | 1074 | ee1cebf
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\processmappingflowchart.png | 09-06-2017 | 12:06:00 | | 1788 | 7d37ff52
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\processmappingflowchart_small.png | 09-06-2017 | 12:06:00 | | 553 | d9490871
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\project.png | 09-06-2017 | 12:06:00 | | 4642 | d22b40a8
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\projectplanning.png | 09-06-2017 | 12:06:00 | | 4642 | f80e8e3c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\projectplanning_small.png | 09-06-2017 | 12:06:00 | | 429 | 651df300
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\projectteamchart.png | 09-06-2017 | 12:06:00 | | 8157 | 51d1ca
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\publishing_small.png | 09-06-2017 | 12:06:00 | | 4666 | 4a4506f3
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\puzzlepiece.png | 09-06-2017 | 12:06:00 | | 2790 | baee7337
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\puzzlepiecediagram.png | 09-06-2017 | 12:06:00 | | 2555 | ebb7c286
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\puzzlepiece_small.png | 09-06-2017 | 12:06:00 | | 677 | c8023989
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\pyramidcharts.png | 09-06-2017 | 12:06:00 | | 2805 | dc17535
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\pyramidcharts_small.png | 09-06-2017 | 12:06:00 | | 601 | e6d5fc71
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\rackdiagram.png | 09-06-2017 | 12:06:00 | | 1825 | eecc214
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\rackdiagrams.png | 09-06-2017 | 12:06:00 | | 1735 | 919ac6e0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\rackdiagram_small.png | 09-06-2017 | 12:06:00 | | 651 | ef2a091
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\roadsandfreeways.png | 09-06-2017 | 12:06:00 | | 3027 | 18f9214c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\roadsandfreeways_small.png | 09-06-2017 | 12:06:00 | | 664 | 46422bb1
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Roads_small.png | 09-06-2017 | 12:06:00 | | 280 | 3d97ed8b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\salesmaps.png | 09-06-2017 | 12:06:00 | | 10685 | dc47c556
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\salesproposition.png | 09-06-2017 | 12:06:00 | | 1436 | 446963a
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\salespropositionchart.png | 09-06-2017 | 12:06:00 | | 1314 | 4d7f8cf4
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\salesproposition_small.png | 09-06-2017 | 12:06:00 | | 550 | cb5b9a63
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\scienceandeducation.png | 09-06-2017 | 12:06:00 | | 5505 | a5ff796a
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\scienceandeducation_small.png | 09-06-2017 | 12:06:00 | | 819 | ad0c49b1
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\sciencelessonplans.png | 09-06-2017 | 12:06:00 | | 4865 | 7b45bde0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\sdl.png | 09-06-2017 | 12:06:00 | | 6909 | 9ae5e459
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\simplediagram.png | 09-06-2017 | 12:06:00 | | 10588 | f69fd0ff
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\smartdraw_cloud_small.png | 09-06-2017 | 12:06:00 | | 699 | 46555da5
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\softwaredesign.png | 09-06-2017 | 12:06:00 | | 3772 | 25f5aed4
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\softwaredesign_Small.png | 09-06-2017 | 12:06:00 | | 640 | 577b4df0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\solutions.png | 09-06-2017 | 12:06:00 | | 73126 | 2994c6fb
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\solutions_small.png | 09-06-2017 | 12:06:00 | | 2098 | 1949e07c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Star.png | 09-06-2017 | 12:06:00 | | 2090 | a43c9635
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\stepcharts.png | 09-06-2017 | 12:06:00 | | 1415 | 82b6dd72
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\stepcharts_small.png | 09-06-2017 | 12:06:00 | | 483 | 49051c97
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\storagedesign.png | 09-06-2017 | 12:06:00 | | 1540 | 53fb5bd3
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\storagedesign_small.png | 09-06-2017 | 12:06:00 | | 515 | 90cc1933
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\storefront.png | 09-06-2017 | 12:06:00 | | 2241 | b6a94277
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\storefront_small.png | 09-06-2017 | 12:06:00 | | 646 | 9cbd8331
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\storyboard.png | 09-06-2017 | 12:06:00 | | 7688 | 63645d99
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\storyboard_Small.png | 09-06-2017 | 12:06:00 | | 1953 | 15674b26
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\strategicplanning.png | 09-06-2017 | 12:06:00 | | 3067 | c494b0e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\strategicplanning_small.png | 09-06-2017 | 12:06:00 | | 715 | a460d0bd
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\strategymap.png | 09-06-2017 | 12:06:00 | | 2092 | 844b4a2d
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\strategymap_small.png | 09-06-2017 | 12:06:00 | | 562 | cb3634ff
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\strategymatrices.png | 09-06-2017 | 12:06:00 | | 2022 | ae79a456
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\strategymatrices_small.png | 09-06-2017 | 12:06:00 | | 546 | 92271ad1
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\swimlanesdiagram.png | 09-06-2017 | 12:06:00 | | 1726 | d727d006
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\swimlanesdiagram_landscape.png | 09-06-2017 | 12:06:00 | | 642 | cbb4ad05
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\swot.png | 09-06-2017 | 12:06:00 | | 3067 | c494b0e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\swot_Small.png | 09-06-2017 | 12:06:00 | | 715 | a460d0bd
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\table.png | 09-06-2017 | 12:06:00 | | 1637 | b5972dc9
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\table_small.png | 09-06-2017 | 12:06:00 | | 631 | 7cb78766
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\targetdiagram.png | 09-06-2017 | 12:06:00 | | 5454 | 86d8b015
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\targetdiagram_small.png | 09-06-2017 | 12:06:00 | | 848 | ce4538c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\tasks.png | 09-06-2017 | 12:06:00 | | 4021 | c8e1ed36
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\timelines.png | 09-06-2017 | 12:06:00 | | 1550 | 6841ec5b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\timelines_small.png | 09-06-2017 | 12:06:00 | | 607 | a8c2c8ca
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\uml.png | 09-06-2017 | 12:06:00 | | 4229 | ff0c0a2
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\umlsoftware.png | 09-06-2017 | 12:06:00 | | 3764 | de79fd5c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\uml_small.png | 09-06-2017 | 12:06:00 | | 721 | 34eef15e
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\valuestreammapping.png | 09-06-2017 | 12:06:00 | | 2128 | 7b13c10b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\valuestreammapping_small.png | 09-06-2017 | 12:06:00 | | 528 | 150e4139
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\vehicle.png | 09-06-2017 | 12:06:00 | | 2192 | 74e50b41
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\vehiclediagram.png | 09-06-2017 | 12:06:00 | | 2488 | bda9cb9c
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\vehiclediagram_small.png | 09-06-2017 | 12:06:00 | | 616 | 45b1cad0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\vehicle_small.png | 09-06-2017 | 12:06:00 | | 664 | 24fa6a09
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\venndiagram.png | 09-06-2017 | 12:06:00 | | 4156 | e12d161
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\venndiagrams.png | 09-06-2017 | 12:06:00 | | 3721 | 66e5b7c8
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\venndiagram_small.png | 09-06-2017 | 12:06:00 | | 772 | a78ec092
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\verticalswimlanes.png | 09-06-2017 | 12:06:00 | | 1868 | 5d25f4d7
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\verticalswimlanes_small.png | 09-06-2017 | 12:06:00 | | 611 | b4552327
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\visio-import_small.png | 09-06-2017 | 12:06:00 | | 1442 | e2b74294
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\visualoutline.png | 09-06-2017 | 12:06:00 | | 8613 | d1dd2f04
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\visualoutline_small.png | 09-06-2017 | 12:06:00 | | 2021 | 82cffa6f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Visuals_Small.png | 09-06-2017 | 12:06:00 | | 4776 | b8e263e0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\vpm.png | 09-06-2017 | 12:06:00 | | 2597 | a796356a
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\vpm_small.png | 09-06-2017 | 12:06:00 | | 574 | 80c2ef25
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\webdesign_small.png | 09-06-2017 | 12:06:00 | | 1732 | 2182943
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\webpageannotations.png | 09-06-2017 | 12:06:00 | | 2199 | 18096063
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\webpageannotations_small.png | 09-06-2017 | 12:06:00 | | 456 | fefee650
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\websitemaps.png | 09-06-2017 | 12:06:00 | | 2373 | a6eef377
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\websitemaps_small.png | 09-06-2017 | 12:06:00 | | 779 | bcba54d1
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\Welcome_meeting.png | 09-06-2017 | 12:06:00 | | 4223 | e8d3d9b5
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\welcome_new.png | 09-06-2017 | 12:06:00 | | 5236 | a80405f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\welcome_open.png | 09-06-2017 | 12:06:00 | | 4540 | cbf92a48
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\welcome_presentation.png | 09-06-2017 | 12:06:00 | | 5708 | 8f989fb0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\welcome_process.png | 09-06-2017 | 12:06:00 | | 4300 | 1cb15aae
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\welcome_project.png | 09-06-2017 | 12:06:00 | | 4642 | d22b40a8
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\wireframe.png | 09-06-2017 | 12:06:00 | | 1334 | 259256d0
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\wireframes.png | 09-06-2017 | 12:06:00 | | 1249 | 8bf0ff41
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\wireframes_small.png | 09-06-2017 | 12:06:00 | | 1154 | cd5f9355
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\wireframe_small.png | 09-06-2017 | 12:06:00 | | 525 | 45b402ce
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\workflow.png | 09-06-2017 | 12:06:00 | | 1396 | d5ab4904
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\workflowdiagram.png | 09-06-2017 | 12:06:00 | | 1505 | afef274f
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\workflowdiagram_small.png | 09-06-2017 | 12:06:00 | | 443 | 699a198b
+File Copy: C:\SmartDraw 2018\Templates\Categories\Icons\yearcalendar.png | 09-06-2017 | 12:06:00 | | 5701 | 14221400
+File Copy: C:\SmartDraw 2018\Library\SmartDrawContent.ini | 08-16-2018 | 10:06:08 | | 88 | c63d04fe
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: ContentBuild
+INI Val: 0
+INI Old: 1523375137
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: ContentAdded
+INI Val: 1
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: Spelling
+INI Val: 1	
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: Filters
+INI Val: 1
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: Active
+INI Val: 1
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: TrialNoRec
+INI Val: 1
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: TrialDOnFirst
+INI Val: 1
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: BuySurvey
+INI Val: http://www.smartdraw.com/plink/buysurvey.aspx
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: BuySuite
+INI Val: http://www.smartdraw.com/plink/purchase.htm
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: BuySuitePrint
+INI Val: http://www.smartdraw.com/plink/purchase.htm?
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: ShowTemplateSmartHelp
+INI Val: 0
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: DownloadID
+INI Val: 1346
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: ButtonPath
+INI Val: Popular|
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: SubCategory
+INI Val: 
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: TemplateTab
+INI Val: 1
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: Bitmask
+INI Val: 0
+INI Old: 2
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: TrialOffer
+INI Val: 0
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: DownloadCode
+INI Val: 19PFM7
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: Build
+INI Val: 25
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: BuildID
+INI Val: 25
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: ContentBuild
+INI Val: 0
+INI Old: 0
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: ContentAdded
+INI Val: 1
+INI Old: 1
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: Catalog
+INI Val: 1
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: Standard
+INI Val: 1
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: Spelling
+INI Val: 1	
+INI Old: 1
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: Filters
+INI Val: 1
+INI Old: 1
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: SmartShareTrialLoginPrompt
+INI Val: 0
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: SmartShareDisabled
+INI Val: 0
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: SmartShareNeverPromptLogin
+INI Val: 1
+INI File: C:\SmartDraw 2018\LIBRARY\SmartDrawContent.ini
+INI Sect: Global
+INI Item: HideBuySurvey
+INI Val: 1
+File Overwrite: C:\SmartDraw 2018\SDThumbnail.dll | 02-02-2017 | 12:25:50 | | 260608 | 888f6af9
+File Overwrite: C:\SmartDraw 2018\SmartDrawIFilter.dll | 01-20-2017 | 12:24:58 | | 77824 | 5e1c220c
+Made Dir: C:\SmartDraw 2018\Library\My Symbols
+Made Dir: C:\SmartDraw 2018\Library\My Symbols\My Symbols - 1
+Execute path: C:\Windows\System32\schtasks.exe /DELETE /tn "SDMsgUpdate (TE)"  /F
+Execute path: C:\Windows\System32\schtasks.exe /DELETE /tn "SDMsgUpdate (Local)"  /F
+Execute path: C:\Windows\SysWOW64\schtasks.exe /DELETE /tn "SDMsgUpdate (TE)" /F
+Execute path: C:\Windows\SysWOW64\schtasks.exe /DELETE /tn "SDMsgUpdate (Local)" /F
+File Copy: C:\SmartDraw 2018\Unwise.exe | 01-20-2017 | 12:26:08 | | 168400 | 42aaacef
+Shell Link: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SmartDraw 2018\SmartDraw 2018.lnk
+Link Info: C:\SmartDraw 2018\SmartDraw.exe |  |  | 0 | 1 | 0 | 
+Made Dir: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SmartDraw 2018
+Shell Link: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SmartDraw 2018\Uninstall SmartDraw 2018.lnk
+Link Info: C:\SmartDraw 2018\Unwise.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Public\Desktop\SmartDraw 2018.lnk
+Link Info: C:\SmartDraw 2018\SmartDraw.exe |  |  | 0 | 1 | 0 | 
+RegDB Key: Software\SmartDraw.com\SmartDraw\tinstall
+RegDB Val: 1
+RegDB Root: 1
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\SmartDraw 2018
+RegDB Val: SmartDraw, LLC
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\SmartDraw 2018
+RegDB Val: http://www.smartdraw.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\SmartDraw 2018
+RegDB Val: C:\SMARTD~1\SmartDraw.exe,-0
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Key: Software\SmartDraw.com\SmartDraw\Agreement
+RegDB Val: 1
+RegDB Root: 1
+Could not Self-Register: C:\SmartDraw 2018\SDThumbnail.dll
+Could not Self-Register: C:\SmartDraw 2018\SmartDrawIFilter.dll
+User Rights: Admin

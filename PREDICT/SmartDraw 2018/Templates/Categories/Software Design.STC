@@ -1,0 +1,59 @@
+UML Diagrams	UML Diagrams.STC		umlsoftware
+
+Data Flow Diagrams/Data Flow Diagram Templates	[Bookmark]	
+Data Flow Diagram	\2010\Templates\Flowcharts\Basics\Data Flow_656.sdt	dfd, flow diagrams, flow diagram, dfd diagrams, dataflow diagram, dataflow diagrams, diagram flow, data flow diagram, data flow diagrams, dataflowdiagram, dataflowdiagrams	dataflowdiagram
+Data Flow Diagram Examples	[Header]	
+Course Registration	\2010\Examples\Data Flow Diagrams\Course Registration.sdt	
+Cycle Count	\2010\Examples\Data Flow Diagrams\Cycle Count.sdt	
+Fulfullment & Replenishment	\2010\Examples\Data Flow Diagrams\Fulfillment & Replenishment.sdt	
+Generic	\2010\Examples\Data Flow Diagrams\Generic.sdt	
+Insurance Claims	\2010\Examples\Data Flow Diagrams\Insurance Claims.sdt	
+Online Order System	\2010\Examples\Data Flow Diagrams\Online Order System.sdt	
+Quiz Software	\2010\Examples\Data Flow Diagrams\Quiz Software.sdt	
+Warehouse Cycle Count	\2010\Examples\Data Flow Diagrams\Warehouse Cycle Count.sdt	
+Warehouse Recieving	\2010\Examples\Data Flow Diagrams\Warehouse Receiving.sdt	
+
+Entity Relationship Diagrams/Entity Relationship Diagram (ERD) Templates	[Bookmark]	
+Entity Relationship Diagram	\2010\Templates\Software Diagrams\Basics\Entity Relationship Diagram_1217_3791.sdt	erd, uml, erd diagram, uml diagrams, uml diagrams, entity relationship diagrams, entity relationship diagram, erd data flow, entity relationship diagram data flow	entityrelationshipdiagram
+Entity Relationship Diagram Examples	[Header]	
+Banking Transaction	\2010\Examples\Entity Relationship Diagrams\Banking Transaction.sdt	
+Corporate Relations	\2010\Examples\Entity Relationship Diagrams\Corporate Relations.sdt	
+Department Relations	\2010\Examples\Entity Relationship Diagrams\Department Relationships.sdt	
+Hospital Billing System	\2010\Examples\Entity Relationship Diagrams\Hospital Billing System.sdt	
+Internet Sales Model	\2010\Examples\Entity Relationship Diagrams\Internet Sales Model.sdt	
+
+GUI	[Bookmark]
+Windows 10 File Explorer 01	\2016\GUI\Windows 10\Windows 10 File Explorer 01.sdt
+Windows 10 File Explorer 02	\2016\GUI\Windows 10\Windows 10 File Explorer 02.sdt
+Windows 10 File Explorer 03	\2016\GUI\Windows 10\Windows 10 File Explorer 03.sdt
+Windows 10 File Explorer 04	\2016\GUI\Windows 10\Windows 10 File Explorer 04.sdt
+Windows 10 Start Menu 01	\2016\GUI\Windows 10\Windows 10 Start Menu 01.sdt
+Windows 10 Start Menu 02	\2016\GUI\Windows 10\Windows 10 Start Menu 02.sdt
+Windows 10 Start Menu 03	\2016\GUI\Windows 10\Windows 10 Start Menu 03.sdt
+Windows 10 Start Menu 04	\2016\GUI\Windows 10\Windows 10 Start Menu 04.sdt
+
+Other Software Diagrams/Other Software Diagram Templates	[Bookmark]	
+Catalysis	\2010\Templates\Software Diagrams\Basics\Catalysis_1216_3790.sdt	
+Nassi-Schneiderman	\2010\Templates\Software Diagrams\Basics\Nassi-Schneiderman_3793.sdt	
+Service Component Architecture	\2010\Templates\Software Diagrams\Basics\Service Component Architecture_1.sdt	
+Shlaer & Mellor - OOSA & OODLE	\2010\Templates\Software Diagrams\Basics\Shlaer & Mellor - OOSA & OODLE_1222_3796.sdt	
+Booch OOD	\2010\Templates\Software Diagrams\Basics\Booch OOD_1215_3789.sdt	
+Jackson System Development (JSD-SSADM)	\2010\Templates\Software Diagrams\Basics\Jackson System Development (JSD-SSADM)_1218_3792.sdt	
+Petri Nets	\2010\Templates\Software Diagrams\Basics\Petri Nets_1220_3794.sdt	
+Rumbaugh - OMT	\2010\Templates\Software Diagrams\Basics\Rumbaugh - OMT_1221_3795.sdt	
+Examples	[Header]	
+Bachman's Notation - Internet Sales Model	\2010\Examples\Software Design\Examples\Bachman's Notation - Internet Sales Model_1177_250.sdt	
+Barker's Notation - Composition	\2010\Examples\Software Design\Examples\Barker's Notation - Composition_1178_251.sdt	
+Booch - Log-on Scenario	\2010\Examples\Software Design\Examples\Booch - Log-on Scenario_1179_252.sdt	
+Catalysis - Component Kit Example	\2010\Examples\Software Design\Examples\Catalysis - Component Kit Example_1180_253.sdt	
+IE Notation - Logical Data Model	\2010\Examples\Software Design\Examples\IE Notation - Logical Data Model_1182_254.sdt	
+Jackson - Structured Programming	\2010\Examples\Software Design\Examples\Jackson - Structured Programming_1183_255.sdt	
+JSP- Course Registration	\2010\Examples\Software Design\Examples\JSP- Course Registration_1184_256.sdt	
+Nassi-Shneiderman	\2010\Examples\Software Design\Examples\Nassi-Shneiderman_257.sdt	
+Peter Chen's Notation - Hospital Billing System	\2010\Examples\Software Design\Examples\Peter Chen's Notation - Hospital Billing System_1186_258.sdt	
+Petri Nets - Place & Transition Systems	\2010\Examples\Software Design\Examples\Petri Nets - Place & Transition Systems_1187_259.sdt	
+Rumbaugh Diagram - Modeling Technique	\2010\Examples\Software Design\Examples\Rumbaugh Diagram - Modeling Technique_1188_260.sdt	
+Shlaer-Mellor - Informational Diagram	\2010\Examples\Software Design\Examples\Shlaer-Mellor - Informational Diagram_1189_261.sdt	
+SCA Assembly Diagram - 1	\2010\Examples\Software Design\Service Component Architecture (SCA)\SCA Assembly Diagram - 1_262.sdt	
+SCA Assembly Diagram - 2	\2010\Examples\Software Design\Service Component Architecture (SCA)\SCA Assembly Diagram - 2_263.sdt	
+SCA Assembly Diagram - 3	\2010\Examples\Software Design\Service Component Architecture (SCA)\SCA Assembly Diagram - 3_264.sdt	

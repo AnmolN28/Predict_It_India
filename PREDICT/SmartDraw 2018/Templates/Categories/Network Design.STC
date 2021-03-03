@@ -1,0 +1,84 @@
+Network Diagrams	[Bookmark]
+Network Diagram (Automatic)	\2010\Basics\Network Diagram (Basic)_34.sdt		networkdiagram
+Network Diagram (Manual)	\2016\Network Diagrams\Network Diagram (Manual).sdt		networkdiagram-manual
+
+Network Diagram Examples (Automatic)	[HEADER]	
+Cloud Computing - 1	\2016\Network Design\Cloud Computing - 1.sdt
+Cloud Computing - 2	\2016\Network Design\Cloud Computing - 2.sdt
+Cloud Computing - 3	\2016\Network Design\Cloud Computing - 3.sdt
+Cloud Computing - 4	\2016\Network Design\Cloud Computing - 4.sdt
+Ethernet Hub - Switch	\2016\Network Diagrams\Ethernet Hub - Switch.sdt
+Firewall	\2016\Network Design\Firewall.sdt
+WAN Multi-Protocol	\2016\Network Design\WAN Multi-Protocol.sdt
+
+Network Diagram Examples (Manual)	[HEADER]	
+Bus	\2016\Topography\Bus - 1.sdt
+Complex Network	\2016\Network Diagrams\Complex Network.sdt
+Client Server Model	\2016\Network Diagrams\Client Server Model.sdt
+Educational Setup	\2016\Network Diagrams\Educational Setup.sdt
+Ethernet Router	\2016\Network Diagrams\Ethernet Router.sdt
+Ethernet Router - Hybrid	\2016\Network Diagrams\Ethernet Router - Hybrid.sdt
+Enterprise Network	\2016\Network Design\Enterprise Network.sdt
+LAN Center	\2016\Topography\LAN Center.sdt
+Mobile Network	\2016\Network Diagrams\Mobile Network.sdt
+Network Clustering	\2016\Network Design\Network Clustering.sdt
+Network Layering Diagram	\2016\Network Design\Network Layering Diagram.sdt
+Network Layout 01	\2016\Network Diagrams\Network Layout 01.sdt
+Network Layout 02	\2016\Network Diagrams\Network Layout 02.sdt
+Network Layout 03	\2016\Network Diagrams\Network Layout 03.sdt
+Network Layout 04	\2016\Network Diagrams\Network Layout 04.sdt
+Network Layout 05	\2016\Network Diagrams\Network Layout 05.sdt
+Network Security	\2016\Network Diagrams\Network Security.sdt
+Network Token Ring	\2016\Network Diagrams\Network Token Ring.sdt
+Outlook Web Access	\2016\Network Diagrams\Outlook Web Access.sdt
+Phone Line Home Network	\2016\Network Diagrams\Phone Line Home Network.sdt
+Power Line Home Network	\2016\Network Diagrams\Power Line Home Network.sdt
+Ring - 1	\2016\Topography\Ring - 1.sdt
+Ring - 2	\2016\Topography\Ring - 2.sdt
+Star	\2016\Topography\Star.sdt
+WAN Diagram	\2016\Network Diagrams\WAN Diagram.sdt
+Wireless Directory	\2016\Network Diagrams\Wireless Directory.sdt
+Wireless Network	\2016\Network Diagrams\Wireless Network.sdt
+Wireless Router	\2016\Network Diagrams\Wireless Router.sdt
+
+Cisco Diagrams	[Bookmark]
+Blank Cisco Diagram	\2016\Cisco\Network Diagram (Cisco)_35.sdt		networkdiagram
+Airport IP Telephony Network	\2010\Examples\Network Design\Airport IP Telephony Network (Cisco)_196.sdt	
+IP PoS Network Setup	\2010\Examples\Network Design\IP PoS Network Setup (Cisco)_1111_200.sdt	
+Mobile Network	\2010\Examples\Network Design\Mobile Network (Cisco)_1112_201.sdt	
+Content Delivery System	\2010\Examples\Network Design\Content Delivery System (Cisco)_1108_197.sdt	
+
+Rack Diagrams/Rack Diagram Templates	[Bookmark]
+Blank Rack Diagram	\2010\Basics\Network Diagram (Rack)_37.sdt		rackdiagram
+Rack Diagram Example	\2010\Examples\Network Design\Rack Diagram_204.sdt	
+Server Rack Layout	\2010\Examples\Network Design\Server Rack Layout_205.sdt	
+
+Jacks & Pins	[Bookmark]
+Category 3 10Base-T 8x4 Modular Jack Pinning Diagram	\2016\Jacks & Pins\Category 3 10Base-T 8x4 Modular Jack Pinning Diagram.sdt
+Category 3 Residential 6x4 Quad Modular Jack Pinning Diagram	\2016\Jacks & Pins\Category 3 Residential 6x4 Quad Modular Jack Pinning Diagram.sdt
+Category 3 Token Ring 8x4 Modular Jack Pinning Diagram	\2016\Jacks & Pins\Category 3 Token Ring 8x4 Modular Jack Pinning Diagram.sdt
+Category 3 USOC 6x2 Modular Jack Pinning Diagram	\2016\Jacks & Pins\Category 3 USOC 6x2 Modular Jack Pinning Diagram.sdt
+Category 3 USOC 6x4 Modular Jack Pinning Diagram	\2016\Jacks & Pins\Category 3 USOC 6x4 Modular Jack Pinning Diagram.sdt
+Category 3 USOC 6x6 Modular Jack Pinning Diagram	\2016\Jacks & Pins\Category 3 USOC 6x6 Modular Jack Pinning Diagram.sdt
+Category 3 USOC 8x8 Modular Jack Pinning Diagram	\2016\Jacks & Pins\Category 3 USOC 8x8 Modular Jack Pinning Diagram.sdt
+Category 5 568A 8x8  Modular Jack Pinning Diagram	\2016\Jacks & Pins\Category 5 568A 8x8  Modular Jack Pinning Diagram.sdt
+Category 5 568B 8x8 Modular Jack Pinning Diagram	\2016\Jacks & Pins\Category 5 568B 8x8 Modular Jack Pinning Diagram.sdt
+5 Pin 180 DIN Port	\2016\Jacks & Pins\5 Pin 180 DIN Port.sdt
+6 Pin Mini DIN Port	\2016\Jacks & Pins\6 Pin Mini DIN Port.sdt
+8 Pin Mini DIN Port	\2016\Jacks & Pins\8 Pin Mini DIN Port.sdt
+BNC T-Connector	\2016\Jacks & Pins\BNC T-Connector.sdt
+Centronics Parallel	\2016\Jacks & Pins\Centronics Parallel.sdt
+DB 15HD	\2016\Jacks & Pins\DB 15HD.sdt
+DB 25	\2016\Jacks & Pins\DB 25.sdt
+DB 9	\2016\Jacks & Pins\DB 9.sdt
+Ethernet Transceiver	\2016\Jacks & Pins\Ethernet Transceiver.sdt
+Rackmount	\2016\Jacks & Pins\Rackmount.sdt
+RJ-11	\2016\Jacks & Pins\RJ-11.sdt
+RJ-449	\2016\Jacks & Pins\RJ-449.sdt
+RJ-45	\2016\Jacks & Pins\RJ-45.sdt
+RJ-9	\2016\Jacks & Pins\RJ-9.sdt
+RJ45 Rack	\2016\Jacks & Pins\RJ45 Rack.sdt
+Shielded & Unshielded Twisted Pairs	\2016\Jacks & Pins\Shielded & Unshielded Twisted Pairs.sdt
+V35	\2016\Jacks & Pins\V35.sdt
+Wall Jacks	\2016\Jacks & Pins\Wall Jacks.sdt
+
